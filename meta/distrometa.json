@@ -1,11 +1,11 @@
 {
-  "$schema": "file:///H:/nebulaburo/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "<LINK TO RSS FEED>",
+    "version": "1.0.0",
+    "rss": "https://github.com",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "clientId": "1234567890",
+      "smallImageText": "picuso",
+      "smallImageKey": "picuso"
     }
   }
 }

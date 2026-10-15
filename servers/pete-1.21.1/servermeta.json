@@ -7,7 +7,5 @@
     "address": "virgolandos.mintservers.com",
     "mainServer": true,
     "autoconnect": true
-  },
-  "neoforge": "21.1.253",
-  "untrackedFiles": []
+  }
 }
