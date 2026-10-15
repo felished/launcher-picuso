@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"adorablehamsterpets:hamster_guide_book","components":"{\"patchouli:book\":\"adorablehamsterpets:hamster_tips_guide_book\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:charcoal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:iron_leggings","components":"{\"minecraft:damage\":84}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,14 @@
+{
+  "useRankSystem": true,
+  "enableDebugLogging": false,
+  "enableTinySpeech": false,
+  "soldierRenderDistanceMultiplier": 3.0,
+  "maxSoldiersPerPlayer": -1,
+  "_comments": {
+    "useRankSystem": "Enable/disable the XP and ranking system for soldiers",
+    "enableDebugLogging": "Enable debug logging for development",
+    "enableTinySpeech": "Enable/disable ambient speech sounds for tiny soldiers (noteblock sounds)",
+    "soldierRenderDistanceMultiplier": "Multiplier for how far soldiers can be seen (higher means visible from further away)",
+    "maxSoldiersPerPlayer": "Maximum soldiers per player (-1 for unlimited) [NOT IMPLEMENTED - DOES NOTHING YET]"
+  }
+}
