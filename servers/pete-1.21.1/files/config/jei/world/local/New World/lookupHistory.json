@@ -1,5 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"walkietalkie:radio_station"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"walkietalkie:speaker_module"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
