@@ -1,0 +1,13 @@
+{
+  "$schema": "file:///H:/nebulaburo/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Virgolan2",
+    "description": "Only Virgos",
+    "address": "virgolandos.mintservers.com",
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "mcVersion": "1.20.1",
+  "forgeVersion": "1.20.1-47.4.10"
+}
