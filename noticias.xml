@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Noticias de Virgolan2</title>
-    <link>https://github.com/felished</link>
-    <description>Novedades del servidor</description>
+    <title>Noticias de Picuso</title>
     
     <item>
-      <title>¡Launcher funcionando al 100%!</title>
-      <pubDate>Sat, 17 Oct 2026 12:00:00 GMT</pubDate>
-      <description>Ya pueden entrar a jugar. Recuerden que el launcher actualiza los mods automáticamente.</description>
+      <title>¡Bienvenidos al servidor!</title>
+      <description>Esta es la primera noticia del servidor de prueba.</description>
+      <link>https://discord.gg/zRUwYaAVc</link>
+      <pubDate>Sat, 17 Oct 2026 19:00:00 -0300</pubDate>
     </item>
 
   </channel>
