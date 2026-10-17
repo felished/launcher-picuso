@@ -7,7 +7,7 @@
       "id": "virgoland-1.20.1",
       "name": "Virgolan2",
       "description": "Only Virgos",
-      "icon": null,
+      "icon": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/icon.png",
       "version": "1.0.0",
       "address": "virgolandos.mintservers.com",
       "minecraftVersion": "1.20.1",
