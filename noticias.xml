@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Noticias de Picuso</title>
-    
+    <title>Noticias Picuso</title>
+
     <item>
-      <title>¡Bienvenidos al servidor!</title>
-      <description>Esta es la primera noticia del servidor de prueba.</description>
-      <link>https://discord.gg/zRUwYaAVc</link>
+      <title>¡Noticia de prueba!</title>
+      <description>Si estás leyendo esto, significa que el formato anterior estaba roto.</description>
+      <link>https://https://discord.gg/zRUwYaAVc</link>
       <pubDate>Sat, 17 Oct 2026 19:00:00 -0300</pubDate>
     </item>
 
