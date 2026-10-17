@@ -15,6 +15,28 @@
       "autoconnect": false,
       "modules": [
         {
+          "id": "1.16.5-1.20.1-Belroft-Motors-Mk-14.jar",
+          "name": "1.16.5-1.20.1-Belroft-Motors-Mk-14.jar",
+          "type": "File",
+          "artifact": {
+            "size": 25393709,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/1.16.5-1.20.1-Belroft-Motors-Mk-14.jar",
+            "MD5": "8381a61dfdee8e3ce3d3c39cee7ac134",
+            "path": "mods/1.16.5-1.20.1-Belroft-Motors-Mk-14.jar"
+          }
+        },
+        {
+          "id": "1.20.1-SecurityCraft-v1.10.2.1.jar",
+          "name": "1.20.1-SecurityCraft-v1.10.2.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4995865,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/1.20.1-SecurityCraft-v1.10.2.1.jar",
+            "MD5": "07c5b4516075755002d7af62eb4f8fdd",
+            "path": "mods/1.20.1-SecurityCraft-v1.10.2.1.jar"
+          }
+        },
+        {
           "id": "adorablehamsterpets-3.7.0-1.20.1+forge.jar",
           "name": "adorablehamsterpets-3.7.0-1.20.1+forge.jar",
           "type": "File",
@@ -906,14 +928,14 @@
           }
         },
         {
-          "id": "MTS Official Pack-1.20.1-V29.jar",
-          "name": "MTS Official Pack-1.20.1-V29.jar",
+          "id": "MTS-Official-Pack-1.20.1-V29.jar",
+          "name": "MTS-Official-Pack-1.20.1-V29.jar",
           "type": "File",
           "artifact": {
             "size": 70997298,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/MTS%20Official%20Pack-1.20.1-V29.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/MTS-Official-Pack-1.20.1-V29.jar",
             "MD5": "f21a397cce53a4ef26c09c1c65a6a3d7",
-            "path": "mods/MTS Official Pack-1.20.1-V29.jar"
+            "path": "mods/MTS-Official-Pack-1.20.1-V29.jar"
           }
         },
         {
@@ -1280,25 +1302,25 @@
           }
         },
         {
-          "id": "UNU Civilian Pack [MTS] 1.20.1-22.18.0-6.7.1.jar",
-          "name": "UNU Civilian Pack [MTS] 1.20.1-22.18.0-6.7.1.jar",
+          "id": "UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
+          "name": "UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
           "type": "File",
           "artifact": {
             "size": 126471022,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/UNU%20Civilian%20Pack%20[MTS]%201.20.1-22.18.0-6.7.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
             "MD5": "7c18d0129fe7e6919690a6273eb05f18",
-            "path": "mods/UNU Civilian Pack [MTS] 1.20.1-22.18.0-6.7.1.jar"
+            "path": "mods/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar"
           }
         },
         {
-          "id": "UNU Parts Pack [MTS] 1.20.1-22.18.0-6.7.3.jar",
-          "name": "UNU Parts Pack [MTS] 1.20.1-22.18.0-6.7.3.jar",
+          "id": "UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
+          "name": "UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
           "type": "File",
           "artifact": {
             "size": 32034767,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/UNU%20Parts%20Pack%20[MTS]%201.20.1-22.18.0-6.7.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
             "MD5": "9f598bd7ba33eb0443adbe3f13c4fabe",
-            "path": "mods/UNU Parts Pack [MTS] 1.20.1-22.18.0-6.7.3.jar"
+            "path": "mods/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar"
           }
         },
         {
@@ -1409,28 +1431,6 @@
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
             "MD5": "2437cb642e24726a83f864e345f24479",
             "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
-          }
-        },
-        {
-          "id": "[1.16.5-1.20.1] Belroft Motors Mk 14.jar",
-          "name": "[1.16.5-1.20.1] Belroft Motors Mk 14.jar",
-          "type": "File",
-          "artifact": {
-            "size": 25393709,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/[1.16.5-1.20.1]%20Belroft%20Motors%20Mk%2014.jar",
-            "MD5": "8381a61dfdee8e3ce3d3c39cee7ac134",
-            "path": "mods/[1.16.5-1.20.1] Belroft Motors Mk 14.jar"
-          }
-        },
-        {
-          "id": "[1.20.1] SecurityCraft v1.10.2.1.jar",
-          "name": "[1.20.1] SecurityCraft v1.10.2.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 4995865,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/[1.20.1]%20SecurityCraft%20v1.10.2.1.jar",
-            "MD5": "07c5b4516075755002d7af62eb4f8fdd",
-            "path": "mods/[1.20.1] SecurityCraft v1.10.2.1.jar"
           }
         }
       ]
