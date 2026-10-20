@@ -3328,6 +3328,17 @@
           }
         },
         {
+          "id": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+          "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 37178,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "MD5": "6b528d368f7fcbf737df28f2457cdec6",
+            "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+          }
+        },
+        {
           "id": "modernfix-forge-5.27.88+mc1.20.1.jar",
           "name": "modernfix-forge-5.27.88+mc1.20.1.jar",
           "type": "File",
@@ -3779,14 +3790,14 @@
           }
         },
         {
-          "id": "watermedia-2.1.37.jar",
-          "name": "watermedia-2.1.37.jar",
+          "id": "watermedia-3.0.0.23.jar",
+          "name": "watermedia-3.0.0.23.jar",
           "type": "File",
           "artifact": {
-            "size": 37046674,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/watermedia-2.1.37.jar",
-            "MD5": "4a09ad3ea22ad258802605b8aa929bbd",
-            "path": "mods/watermedia-2.1.37.jar"
+            "size": 3625445,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/watermedia-3.0.0.23.jar",
+            "MD5": "0c4369a1df8529446de00ee9691c386d",
+            "path": "mods/watermedia-3.0.0.23.jar"
           }
         },
         {
