@@ -3779,14 +3779,14 @@
           }
         },
         {
-          "id": "waterframes-FORGE-mc1.20.1-v2.1.22.jar",
-          "name": "waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+          "id": "waterframes-FORGE-mc1.20.1-v2.2.0-beta.6.jar",
+          "name": "waterframes-FORGE-mc1.20.1-v2.2.0-beta.6.jar",
           "type": "File",
           "artifact": {
-            "size": 255481,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/waterframes-FORGE-mc1.20.1-v2.1.22.jar",
-            "MD5": "595a2467900abcdf00b3059c56fc0d0f",
-            "path": "mods/waterframes-FORGE-mc1.20.1-v2.1.22.jar"
+            "size": 254851,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/waterframes-FORGE-mc1.20.1-v2.2.0-beta.6.jar",
+            "MD5": "521fc4f3e0d4000d9edb183772162f00",
+            "path": "mods/waterframes-FORGE-mc1.20.1-v2.2.0-beta.6.jar"
           }
         },
         {
@@ -3801,14 +3801,14 @@
           }
         },
         {
-          "id": "watermedia_youtube_plugin-2.1.2.jar",
-          "name": "watermedia_youtube_plugin-2.1.2.jar",
+          "id": "watermedia_platform_extension-3.0.0-beta.7.jar",
+          "name": "watermedia_platform_extension-3.0.0-beta.7.jar",
           "type": "File",
           "artifact": {
-            "size": 3830072,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/watermedia_youtube_plugin-2.1.2.jar",
-            "MD5": "5b0ed7502f1d3c0553e6d536d5a74d4a",
-            "path": "mods/watermedia_youtube_plugin-2.1.2.jar"
+            "size": 248825,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/watermedia_platform_extension-3.0.0-beta.7.jar",
+            "MD5": "269df6c0b429ac43a59d1625caf9a0f9",
+            "path": "mods/watermedia_platform_extension-3.0.0-beta.7.jar"
           }
         },
         {
