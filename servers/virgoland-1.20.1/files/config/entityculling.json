@@ -10,6 +10,9 @@
     "betterend:eternal_pedestal",
     "botania:magic_missile",
     "botania:falling_star"
+    "mts:builder_existing"
+    "mts:builder_rendering"
+    "mts:builder_seat"
   ],
   "entityWhitelist": [
     "botania:mana_burst",

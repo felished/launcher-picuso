@@ -1253,9 +1253,9 @@
           "name": "entityculling.json",
           "type": "File",
           "artifact": {
-            "size": 2326,
+            "size": 2407,
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/entityculling.json",
-            "MD5": "eeca714ee321b5b58461fbb5177e1815",
+            "MD5": "e235bc788b63577243026822e449244b",
             "path": "config/entityculling.json"
           }
         },
@@ -1913,9 +1913,9 @@
           "name": "securitycraft-client.toml",
           "type": "File",
           "artifact": {
-            "size": 1951,
+            "size": 1952,
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/securitycraft-client.toml",
-            "MD5": "4e880d401dcf3ea7352ac2ea951b158b",
+            "MD5": "eae179ccb8ff458ce145a1ab19f92730",
             "path": "config/securitycraft-client.toml"
           }
         },
@@ -2907,6 +2907,17 @@
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/fallingleaves-1.20.1-2.1.2.jar",
             "MD5": "721d92a83d7518e8515dbd499eda03cd",
             "path": "mods/fallingleaves-1.20.1-2.1.2.jar"
+          }
+        },
+        {
+          "id": "fancymenu_forge_3.9.14_MC_1.20.1.jar",
+          "name": "fancymenu_forge_3.9.14_MC_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 26191988,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
+            "MD5": "4a27ef9d0e6b8cc9c32183cf843b99ef",
+            "path": "mods/fancymenu_forge_3.9.14_MC_1.20.1.jar"
           }
         },
         {
