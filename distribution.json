@@ -12,7 +12,7 @@
       "address": "virgolandos.mintservers.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.10",
