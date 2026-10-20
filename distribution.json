@@ -1271,6 +1271,193 @@
           }
         },
         {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 152,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "ea0f4d7dcb98939c1cc8d0d506394b16",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "menu_inicio.txt",
+          "name": "menu_inicio.txt",
+          "type": "File",
+          "artifact": {
+            "size": 51477,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/customization/menu_inicio.txt",
+            "MD5": "f58083eef1da505553b4fbd49c2ef539",
+            "path": "config/fancymenu/customization/menu_inicio.txt"
+          }
+        },
+        {
+          "id": "custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "106e52948415f0879c53304f50783b28",
+            "path": "config/fancymenu/custom_gui_screens.txt"
+          }
+        },
+        {
+          "id": "element_layer_control.lewidget",
+          "name": "element_layer_control.lewidget",
+          "type": "File",
+          "artifact": {
+            "size": 201,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "MD5": "a928cbd69cf9e8c46c57c3325ab269b3",
+            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+          }
+        },
+        {
+          "id": "legacy_checklist.txt",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "path": "config/fancymenu/legacy_checklist.txt"
+          }
+        },
+        {
+          "id": "normalized_scroll_screens.json",
+          "name": "normalized_scroll_screens.json",
+          "type": "File",
+          "artifact": {
+            "size": 27,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/normalized_scroll_screens.json",
+            "MD5": "9957cc99b5c1146e564dc9e3a22e102e",
+            "path": "config/fancymenu/normalized_scroll_screens.json"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4401,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/options.txt",
+            "MD5": "fb09f1e35703c37fef417b101a4e0b58",
+            "path": "config/fancymenu/options.txt"
+          }
+        },
+        {
+          "id": "cherry_blossom.json",
+          "name": "cherry_blossom.json",
+          "type": "File",
+          "artifact": {
+            "size": 9349,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/cherry_blossom.json",
+            "MD5": "90e358ee1c6bbd1d17bbcdad0a504f3d",
+            "path": "config/fancymenu/ui_themes/cherry_blossom.json"
+          }
+        },
+        {
+          "id": "cozy_campfire.json",
+          "name": "cozy_campfire.json",
+          "type": "File",
+          "artifact": {
+            "size": 9347,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/cozy_campfire.json",
+            "MD5": "02b0cd78a482dbd7ec793e123f4c007b",
+            "path": "config/fancymenu/ui_themes/cozy_campfire.json"
+          }
+        },
+        {
+          "id": "dark.json",
+          "name": "dark.json",
+          "type": "File",
+          "artifact": {
+            "size": 9329,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "MD5": "cbf30e731636c918d598f1ad9b0ea371",
+            "path": "config/fancymenu/ui_themes/dark.json"
+          }
+        },
+        {
+          "id": "dark_high_contrast.json",
+          "name": "dark_high_contrast.json",
+          "type": "File",
+          "artifact": {
+            "size": 9359,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/dark_high_contrast.json",
+            "MD5": "4b532a7a5c5ecd839e55a3c083c8bca3",
+            "path": "config/fancymenu/ui_themes/dark_high_contrast.json"
+          }
+        },
+        {
+          "id": "light.json",
+          "name": "light.json",
+          "type": "File",
+          "artifact": {
+            "size": 9331,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "MD5": "f3980d6eed1064c36d794d7b1030fd06",
+            "path": "config/fancymenu/ui_themes/light.json"
+          }
+        },
+        {
+          "id": "light_high_contrast.json",
+          "name": "light_high_contrast.json",
+          "type": "File",
+          "artifact": {
+            "size": 9361,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/light_high_contrast.json",
+            "MD5": "700ff9cd0e95ac2234e0494af729226a",
+            "path": "config/fancymenu/ui_themes/light_high_contrast.json"
+          }
+        },
+        {
+          "id": "pumpkin_soup.json",
+          "name": "pumpkin_soup.json",
+          "type": "File",
+          "artifact": {
+            "size": 9345,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/pumpkin_soup.json",
+            "MD5": "d322c4bde872420ddeb2eaa124d0f16a",
+            "path": "config/fancymenu/ui_themes/pumpkin_soup.json"
+          }
+        },
+        {
+          "id": "purple_void.json",
+          "name": "purple_void.json",
+          "type": "File",
+          "artifact": {
+            "size": 9343,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/purple_void.json",
+            "MD5": "79df3b7ab7a74d55e3f5bb70cd996dea",
+            "path": "config/fancymenu/ui_themes/purple_void.json"
+          }
+        },
+        {
+          "id": "spooky_season.json",
+          "name": "spooky_season.json",
+          "type": "File",
+          "artifact": {
+            "size": 9347,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/spooky_season.json",
+            "MD5": "c45cc6e6bd9c4a296227e764dcf1e953",
+            "path": "config/fancymenu/ui_themes/spooky_season.json"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/user_variables.db",
+            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
           "id": "farmersdelight-client.toml",
           "name": "farmersdelight-client.toml",
           "type": "File",
