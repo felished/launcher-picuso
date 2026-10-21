@@ -819,7 +819,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6254897,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Immersive%20Vehicles-1.20.1-24.0.0.jar",
+            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Immersive-Vehicles-1.20.1-24.0.0.jar",
             "MD5": "96fd07315c988dff6e5dff255ec4ba79"
           }
         },
@@ -989,7 +989,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 70997298,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/MTS%20Official%20Pack-1.20.1-V29.jar",
+            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/MTS-Official-Pack-1.20.1-V29.jar",
             "MD5": "f21a397cce53a4ef26c09c1c65a6a3d7"
           }
         },
@@ -1189,7 +1189,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 126471022,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/UNU%20Civilian%20Pack%20[MTS]%201.20.1-22.18.0-6.7.1.jar",
+            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
             "MD5": "7c18d0129fe7e6919690a6273eb05f18"
           }
         },
@@ -1199,7 +1199,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 32034767,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/UNU%20Parts%20Pack%20[MTS]%201.20.1-22.18.0-6.7.3.jar",
+            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/UNU-Parts%20Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
             "MD5": "9f598bd7ba33eb0443adbe3f13c4fabe"
           }
         },
