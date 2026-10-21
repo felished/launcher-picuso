@@ -429,9 +429,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/almostunified-forge-1.20.1-0.11.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/almostunified-forge-1.20.1-0.11.0.jar",
             "MD5": "916d9784f23eea3ced517e30f237a653",
-            "path": "forgemods/required/almostunified-forge-1.20.1-0.11.0.jar"
+            "path": "mods/almostunified-forge-1.20.1-0.11.0.jar"
           }
         },
         {
@@ -440,9 +440,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/ApothicAttributes-1.20.1-1.3.7.jar",
             "MD5": "9087d5eae92de3ac604fed2212506555",
-            "path": "forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar"
+            "path": "mods/ApothicAttributes-1.20.1-1.3.7.jar"
           }
         },
         {
@@ -451,9 +451,9 @@
           "type": "File",
           "artifact": {
             "size": 130,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "fadf2ad8993d4b169855535ba2015fa1",
-            "path": "forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar"
+            "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
           }
         },
         {
@@ -462,9 +462,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/architectury-9.2.14-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/architectury-9.2.14-forge.jar",
             "MD5": "5b7bb60f94d80b3ce3322788e365aa86",
-            "path": "forgemods/required/architectury-9.2.14-forge.jar"
+            "path": "mods/architectury-9.2.14-forge.jar"
           }
         },
         {
@@ -473,9 +473,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/camera-forge-1.20.1-1.0.20.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/camera-forge-1.20.1-1.0.20.jar",
             "MD5": "938389eb3e943367c56dd52b8268ad2f",
-            "path": "forgemods/required/camera-forge-1.20.1-1.0.20.jar"
+            "path": "mods/camera-forge-1.20.1-1.0.20.jar"
           }
         },
         {
@@ -484,9 +484,9 @@
           "type": "File",
           "artifact": {
             "size": 129,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/cleanswing-1.20-1.8.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/cleanswing-1.20-1.8.jar",
             "MD5": "f13dea08367d120b6c81eb8f81b67b80",
-            "path": "forgemods/required/cleanswing-1.20-1.8.jar"
+            "path": "mods/cleanswing-1.20-1.8.jar"
           }
         },
         {
@@ -495,9 +495,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/cloth-config-11.1.136-forge.jar",
             "MD5": "1467817ef81665669f19dd3c1085caa0",
-            "path": "forgemods/required/cloth-config-11.1.136-forge.jar"
+            "path": "mods/cloth-config-11.1.136-forge.jar"
           }
         },
         {
@@ -506,9 +506,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/cofh_core-1.20.1-11.0.2.56.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/cofh_core-1.20.1-11.0.2.56.jar",
             "MD5": "38644b31d975aba581a6673738f10e5f",
-            "path": "forgemods/required/cofh_core-1.20.1-11.0.2.56.jar"
+            "path": "mods/cofh_core-1.20.1-11.0.2.56.jar"
           }
         },
         {
@@ -517,9 +517,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/Controlling-forge-1.20.1-12.0.2.jar",
             "MD5": "470842f35d5b38389bb9ac95410d9518",
-            "path": "forgemods/required/Controlling-forge-1.20.1-12.0.2.jar"
+            "path": "mods/Controlling-forge-1.20.1-12.0.2.jar"
           }
         },
         {
@@ -528,9 +528,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/copycats-3.0.10+mc.1.20.1-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/copycats-3.0.10+mc.1.20.1-forge.jar",
             "MD5": "083809f8bad939ed7062e724065a6fb0",
-            "path": "forgemods/required/copycats-3.0.10+mc.1.20.1-forge.jar"
+            "path": "mods/copycats-3.0.10+mc.1.20.1-forge.jar"
           }
         },
         {
@@ -539,9 +539,9 @@
           "type": "File",
           "artifact": {
             "size": 133,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/create-1.20.1-6.0.8.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/create-1.20.1-6.0.8.jar",
             "MD5": "1d12019444937e9a2cfb0cf872ce8c1a",
-            "path": "forgemods/required/create-1.20.1-6.0.8.jar"
+            "path": "mods/create-1.20.1-6.0.8.jar"
           }
         },
         {
@@ -550,9 +550,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/createaddition-1.20.1-1.3.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/createaddition-1.20.1-1.3.3.jar",
             "MD5": "0ac29bd4b2cb3444ba9a84bf38133bce",
-            "path": "forgemods/required/createaddition-1.20.1-1.3.3.jar"
+            "path": "mods/createaddition-1.20.1-1.3.3.jar"
           }
         },
         {
@@ -561,9 +561,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/createdeco-2.0.3-1.20.1-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/createdeco-2.0.3-1.20.1-forge.jar",
             "MD5": "0120073f0742b9ae4d8855bee4116ca8",
-            "path": "forgemods/required/createdeco-2.0.3-1.20.1-forge.jar"
+            "path": "mods/createdeco-2.0.3-1.20.1-forge.jar"
           }
         },
         {
@@ -572,9 +572,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/create_better_motors-4.0.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/create_better_motors-4.0.0.jar",
             "MD5": "b01fbaf9e5485846b9480f61f2406489",
-            "path": "forgemods/required/create_better_motors-4.0.0.jar"
+            "path": "mods/create_better_motors-4.0.0.jar"
           }
         },
         {
@@ -583,9 +583,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
             "MD5": "43f17fc21fce4b250b5f0c0e5941ee33",
-            "path": "forgemods/required/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar"
+            "path": "mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar"
           }
         },
         {
@@ -594,9 +594,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/Cuffed-1.20.1-1.3.15.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/Cuffed-1.20.1-1.3.15.jar",
             "MD5": "4dff7b6924670b83576da26a98a5b6e7",
-            "path": "forgemods/required/Cuffed-1.20.1-1.3.15.jar"
+            "path": "mods/Cuffed-1.20.1-1.3.15.jar"
           }
         },
         {
@@ -605,9 +605,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "4b829690d6615caf46312119314c6f02",
-            "path": "forgemods/required/embeddium-0.3.31+mc1.20.1.jar"
+            "path": "mods/embeddium-0.3.31+mc1.20.1.jar"
           }
         },
         {
@@ -616,9 +616,9 @@
           "type": "File",
           "artifact": {
             "size": 133,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/fancymenu_forge_3.9.14_MC_1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
             "MD5": "d3e36ee3ad87cb68817404cbe5f0b118",
-            "path": "forgemods/required/fancymenu_forge_3.9.14_MC_1.20.1.jar"
+            "path": "mods/fancymenu_forge_3.9.14_MC_1.20.1.jar"
           }
         },
         {
@@ -627,9 +627,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/FarmersDelight-1.20.1-1.3.4.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/FarmersDelight-1.20.1-1.3.4.jar",
             "MD5": "df381e80e8f52cf9b2138c653033505f",
-            "path": "forgemods/required/FarmersDelight-1.20.1-1.3.4.jar"
+            "path": "mods/FarmersDelight-1.20.1-1.3.4.jar"
           }
         },
         {
@@ -638,9 +638,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/framework-forge-1.20.1-0.8.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/framework-forge-1.20.1-0.8.0.jar",
             "MD5": "9e79837ba8778554d6c02bc40edc7a07",
-            "path": "forgemods/required/framework-forge-1.20.1-0.8.0.jar"
+            "path": "mods/framework-forge-1.20.1-0.8.0.jar"
           }
         },
         {
@@ -649,9 +649,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/ftb-library-forge-2001.2.13.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/ftb-library-forge-2001.2.13.jar",
             "MD5": "53bf7a1ede2d44dea82ce9d50eb63cc7",
-            "path": "forgemods/required/ftb-library-forge-2001.2.13.jar"
+            "path": "mods/ftb-library-forge-2001.2.13.jar"
           }
         },
         {
@@ -660,9 +660,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/ftb-quests-forge-2001.4.22.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/ftb-quests-forge-2001.4.22.jar",
             "MD5": "9fa731c2d088f9cda4dd6511dbc75218",
-            "path": "forgemods/required/ftb-quests-forge-2001.4.22.jar"
+            "path": "mods/ftb-quests-forge-2001.4.22.jar"
           }
         },
         {
@@ -671,9 +671,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/ftb-teams-forge-2001.3.2.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/ftb-teams-forge-2001.3.2.jar",
             "MD5": "c5d3737998c18326cf6d83933057c4ad",
-            "path": "forgemods/required/ftb-teams-forge-2001.3.2.jar"
+            "path": "mods/ftb-teams-forge-2001.3.2.jar"
           }
         },
         {
@@ -682,9 +682,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/ftb-xmod-compat-forge-2.1.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/ftb-xmod-compat-forge-2.1.3.jar",
             "MD5": "b3ca88f1c28d9656896bf39b14e22048",
-            "path": "forgemods/required/ftb-xmod-compat-forge-2.1.3.jar"
+            "path": "mods/ftb-xmod-compat-forge-2.1.3.jar"
           }
         },
         {
@@ -693,9 +693,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/ftbmaterials-forge-20.1.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/ftbmaterials-forge-20.1.1.jar",
             "MD5": "91dc382a4e48c63a18a5bcebea4351c9",
-            "path": "forgemods/required/ftbmaterials-forge-20.1.1.jar"
+            "path": "mods/ftbmaterials-forge-20.1.1.jar"
           }
         },
         {
@@ -704,9 +704,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/fusion-1.3.16-forge-mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/fusion-1.3.16-forge-mc1.20.1.jar",
             "MD5": "ba711907a4d8a72bc2ca8f2e58a76153",
-            "path": "forgemods/required/fusion-1.3.16-forge-mc1.20.1.jar"
+            "path": "mods/fusion-1.3.16-forge-mc1.20.1.jar"
           }
         },
         {
@@ -715,9 +715,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/gundb-2.2.2-1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/gundb-2.2.2-1.20.1.jar",
             "MD5": "205a1375a58b655fc96075db9ead141a",
-            "path": "forgemods/required/gundb-2.2.2-1.20.1.jar"
+            "path": "mods/gundb-2.2.2-1.20.1.jar"
           }
         },
         {
@@ -726,9 +726,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/handcrafted-forge-1.20.1-3.0.6.jar",
             "MD5": "936d2cb2303c58d287be02ba76e22665",
-            "path": "forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar"
+            "path": "mods/handcrafted-forge-1.20.1-3.0.6.jar"
           }
         },
         {
@@ -737,9 +737,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/Immersive-Vehicles-1.20.1-24.0.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/Immersive-Vehicles-1.20.1-24.0.0.jar",
             "MD5": "f2028f4dc2c7e940e06c96fcf4011907",
-            "path": "forgemods/required/Immersive-Vehicles-1.20.1-24.0.0.jar"
+            "path": "mods/Immersive-Vehicles-1.20.1-24.0.0.jar"
           }
         },
         {
@@ -748,9 +748,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/jei-1.20.1-forge-15.74.0.226.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/jei-1.20.1-forge-15.74.0.226.jar",
             "MD5": "0cb3d0c92125568e7188e9f0a0506177",
-            "path": "forgemods/required/jei-1.20.1-forge-15.74.0.226.jar"
+            "path": "mods/jei-1.20.1-forge-15.74.0.226.jar"
           }
         },
         {
@@ -759,9 +759,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "fc1bd9bbe8178e5d8a1530ac7cad110d",
-            "path": "forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+            "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
           }
         },
         {
@@ -770,9 +770,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/kotlinforforge-4.12.0-all.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/kotlinforforge-4.12.0-all.jar",
             "MD5": "55d041801c87be668da01e015cdbf54c",
-            "path": "forgemods/required/kotlinforforge-4.12.0-all.jar"
+            "path": "mods/kotlinforforge-4.12.0-all.jar"
           }
         },
         {
@@ -781,9 +781,9 @@
           "type": "File",
           "artifact": {
             "size": 130,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/kubejs-create-forge-2001.3.0-build.8.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/kubejs-create-forge-2001.3.0-build.8.jar",
             "MD5": "447081a7d41a148808a91ec2e3c48356",
-            "path": "forgemods/required/kubejs-create-forge-2001.3.0-build.8.jar"
+            "path": "mods/kubejs-create-forge-2001.3.0-build.8.jar"
           }
         },
         {
@@ -792,9 +792,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/kubejs-forge-2001.6.5-build.26.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/kubejs-forge-2001.6.5-build.26.jar",
             "MD5": "853b3da817db00ae3e2642d81f6f7c11",
-            "path": "forgemods/required/kubejs-forge-2001.6.5-build.26.jar"
+            "path": "mods/kubejs-forge-2001.6.5-build.26.jar"
           }
         },
         {
@@ -803,9 +803,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/Lazrs-Lib-1.20-1.1.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/Lazrs-Lib-1.20-1.1.1.jar",
             "MD5": "9ae5044340d23cf46aace20f31f7f3d3",
-            "path": "forgemods/required/Lazrs-Lib-1.20-1.1.1.jar"
+            "path": "mods/Lazrs-Lib-1.20-1.1.1.jar"
           }
         },
         {
@@ -814,9 +814,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/locks_reforged-1.7.5.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/locks_reforged-1.7.5.jar",
             "MD5": "23934d4c1a9a050efe2daaf46c1eb7f3",
-            "path": "forgemods/required/locks_reforged-1.7.5.jar"
+            "path": "mods/locks_reforged-1.7.5.jar"
           }
         },
         {
@@ -825,9 +825,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/mcw-doors-1.1.5-mc1.20.1forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
             "MD5": "26b420eb69003dd3a5f23a1ff036d31c",
-            "path": "forgemods/required/mcw-doors-1.1.5-mc1.20.1forge.jar"
+            "path": "mods/mcw-doors-1.1.5-mc1.20.1forge.jar"
           }
         },
         {
@@ -836,9 +836,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
             "MD5": "209a8b7ebe096924f5c6ec1d199e7a04",
-            "path": "forgemods/required/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar"
+            "path": "mods/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar"
           }
         },
         {
@@ -847,9 +847,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
             "MD5": "3728cb8766f996f9b88d1f289df72d56",
-            "path": "forgemods/required/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar"
+            "path": "mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar"
           }
         },
         {
@@ -858,9 +858,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
             "MD5": "a6375e70874f3e27e0d4551ef906038d",
-            "path": "forgemods/required/mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
+            "path": "mods/mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
           }
         },
         {
@@ -869,9 +869,9 @@
           "type": "File",
           "artifact": {
             "size": 130,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "MD5": "3472ba953369700c42599b0b4bb1fdb3",
-            "path": "forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+            "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
           }
         },
         {
@@ -880,9 +880,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/mezz_config-1.20.1-forge-0.6.8.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/mezz_config-1.20.1-forge-0.6.8.jar",
             "MD5": "b60cf529a872c2f10fc6fe24cb5b2e5c",
-            "path": "forgemods/required/mezz_config-1.20.1-forge-0.6.8.jar"
+            "path": "mods/mezz_config-1.20.1-forge-0.6.8.jar"
           }
         },
         {
@@ -891,9 +891,9 @@
           "type": "File",
           "artifact": {
             "size": 133,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/MTS%20Official%20Pack-1.20.1-V29.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/MTS%20Official%20Pack-1.20.1-V29.jar",
             "MD5": "3581fb7c9273ab914cd24bb58d3ef83e",
-            "path": "forgemods/required/MTS Official Pack-1.20.1-V29.jar"
+            "path": "mods/MTS Official Pack-1.20.1-V29.jar"
           }
         },
         {
@@ -902,9 +902,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/Pehkui-3.8.2+1.20.1-forge.jar",
             "MD5": "b117a900302f0059d443439028f6450f",
-            "path": "forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar"
+            "path": "mods/Pehkui-3.8.2+1.20.1-forge.jar"
           }
         },
         {
@@ -913,9 +913,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/Placebo-1.20.1-8.6.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/Placebo-1.20.1-8.6.3.jar",
             "MD5": "67264c7cde0a1a733a7f407f2496e3b5",
-            "path": "forgemods/required/Placebo-1.20.1-8.6.3.jar"
+            "path": "mods/Placebo-1.20.1-8.6.3.jar"
           }
         },
         {
@@ -924,9 +924,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "03658cba35dfad7429398b9c7aba86c7",
-            "path": "forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+            "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
           }
         },
         {
@@ -935,9 +935,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
             "MD5": "ab72de0edc9f486b878a47989095f4d5",
-            "path": "forgemods/required/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
+            "path": "mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
           }
         },
         {
@@ -946,9 +946,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/polymorph-forge-0.49.11+1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/polymorph-forge-0.49.11+1.20.1.jar",
             "MD5": "70955b34047f3b44e03831c05214daa4",
-            "path": "forgemods/required/polymorph-forge-0.49.11+1.20.1.jar"
+            "path": "mods/polymorph-forge-0.49.11+1.20.1.jar"
           }
         },
         {
@@ -957,9 +957,9 @@
           "type": "File",
           "artifact": {
             "size": 133,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/rechiseled-1.2.6-forge-mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/rechiseled-1.2.6-forge-mc1.20.1.jar",
             "MD5": "ef8b10c31c2fcb4de7e28e7a2dc334d2",
-            "path": "forgemods/required/rechiseled-1.2.6-forge-mc1.20.1.jar"
+            "path": "mods/rechiseled-1.2.6-forge-mc1.20.1.jar"
           }
         },
         {
@@ -968,9 +968,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
             "MD5": "68026a062ed4db97bfd36b8e77ebaef7",
-            "path": "forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar"
+            "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar"
           }
         },
         {
@@ -979,9 +979,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/revive_through_grass-0.1.1+1.20.1-Forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/revive_through_grass-0.1.1+1.20.1-Forge.jar",
             "MD5": "be8f416a4fd0a502fd90b929f9fc6139",
-            "path": "forgemods/required/revive_through_grass-0.1.1+1.20.1-Forge.jar"
+            "path": "mods/revive_through_grass-0.1.1+1.20.1-Forge.jar"
           }
         },
         {
@@ -990,9 +990,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/rhino-forge-2001.2.3-build.10.jar",
             "MD5": "2b1b55041b53cf07f9d6c5dd5316f248",
-            "path": "forgemods/required/rhino-forge-2001.2.3-build.10.jar"
+            "path": "mods/rhino-forge-2001.2.3-build.10.jar"
           }
         },
         {
@@ -1001,9 +1001,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/scholar-1.20.1-1.2.9-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/scholar-1.20.1-1.2.9-forge.jar",
             "MD5": "c6c129ad9ef7d97be7457f12f6de46f3",
-            "path": "forgemods/required/scholar-1.20.1-1.2.9-forge.jar"
+            "path": "mods/scholar-1.20.1-1.2.9-forge.jar"
           }
         },
         {
@@ -1012,9 +1012,9 @@
           "type": "File",
           "artifact": {
             "size": 130,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/Searchables-forge-1.20.1-1.0.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/Searchables-forge-1.20.1-1.0.3.jar",
             "MD5": "f19bb43635e225c2063fb18cdd21b554",
-            "path": "forgemods/required/Searchables-forge-1.20.1-1.0.3.jar"
+            "path": "mods/Searchables-forge-1.20.1-1.0.3.jar"
           }
         },
         {
@@ -1023,9 +1023,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/simpleshops-1.2.2.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/simpleshops-1.2.2.jar",
             "MD5": "85b97e57bf7724b18e5609d7f4350316",
-            "path": "forgemods/required/simpleshops-1.2.2.jar"
+            "path": "mods/simpleshops-1.2.2.jar"
           }
         },
         {
@@ -1034,9 +1034,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/skinlayers3d-forge-1.11.4-mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/skinlayers3d-forge-1.11.4-mc1.20.1.jar",
             "MD5": "6961e1e0b23baff414b29799041a3e9e",
-            "path": "forgemods/required/skinlayers3d-forge-1.11.4-mc1.20.1.jar"
+            "path": "mods/skinlayers3d-forge-1.11.4-mc1.20.1.jar"
           }
         },
         {
@@ -1045,9 +1045,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/sliceanddice-forge-3.6.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/sliceanddice-forge-3.6.0.jar",
             "MD5": "945a43833176087b4df43f08c3ad204c",
-            "path": "forgemods/required/sliceanddice-forge-3.6.0.jar"
+            "path": "mods/sliceanddice-forge-3.6.0.jar"
           }
         },
         {
@@ -1056,9 +1056,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
             "MD5": "54a381c363c295589430cfbcf75f0872",
-            "path": "forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+            "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
           }
         },
         {
@@ -1067,9 +1067,9 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar",
             "MD5": "40f23a306530621100fe110ed9fbc743",
-            "path": "forgemods/required/supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar"
+            "path": "mods/supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar"
           }
         },
         {
@@ -1078,9 +1078,9 @@
           "type": "File",
           "artifact": {
             "size": 133,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/tacz-1.20.1-1.1.8-hotfix2.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/tacz-1.20.1-1.1.8-hotfix2.jar",
             "MD5": "c2c787c3aeda881cf40d3d9f07271ce5",
-            "path": "forgemods/required/tacz-1.20.1-1.1.8-hotfix2.jar"
+            "path": "mods/tacz-1.20.1-1.1.8-hotfix2.jar"
           }
         },
         {
@@ -1089,9 +1089,9 @@
           "type": "File",
           "artifact": {
             "size": 134,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
             "MD5": "1c4feaa49ba5e8d80422a38f1b76bd55",
-            "path": "forgemods/required/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar"
+            "path": "mods/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar"
           }
         },
         {
@@ -1100,20 +1100,9 @@
           "type": "File",
           "artifact": {
             "size": 133,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
             "MD5": "70b57c737b6a59290ce6e387637e193f",
-            "path": "forgemods/required/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar"
-          }
-        },
-        {
-          "id": "weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
-          "name": "weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
-          "type": "File",
-          "artifact": {
-            "size": 131,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
-            "MD5": "69585135cd88a6f8667ccdaab90722ac",
-            "path": "forgemods/required/weaponmaster_ydm-forge-1.20.1-4.2.3.jar"
+            "path": "mods/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar"
           }
         },
         {
@@ -1122,9 +1111,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/xaerominimap-forge-1.20.1-26.6.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/xaerominimap-forge-1.20.1-26.6.0.jar",
             "MD5": "64e517e5c39d41bdd7dccc8f30440eeb",
-            "path": "forgemods/required/xaerominimap-forge-1.20.1-26.6.0.jar"
+            "path": "mods/xaerominimap-forge-1.20.1-26.6.0.jar"
           }
         },
         {
@@ -1133,9 +1122,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/xaeroworldmap-forge-1.20.1-1.47.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/xaeroworldmap-forge-1.20.1-1.47.0.jar",
             "MD5": "f9bc846faa73578b6fc419642addb81f",
-            "path": "forgemods/required/xaeroworldmap-forge-1.20.1-1.47.0.jar"
+            "path": "mods/xaeroworldmap-forge-1.20.1-1.47.0.jar"
           }
         },
         {
@@ -1144,9 +1133,9 @@
           "type": "File",
           "artifact": {
             "size": 132,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/forgemods/required/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
             "MD5": "cbad885186e4d9bed6b5b6f92d70f10a",
-            "path": "forgemods/required/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+            "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
           }
         }
       ]
