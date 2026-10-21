@@ -544,16 +544,6 @@
           }
         },
         {
-          "id": "generated.forgemod:crash_assistant:1.11.12@jar",
-          "name": "Crash Assistant",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3503813,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
-            "MD5": "04c5948360f29f71eef2fc4628094c33"
-          }
-        },
-        {
           "id": "com.reggarf.mods:create_better_motors:4.0.0@jar",
           "name": "Create: Better Motors",
           "type": "ForgeMod",
