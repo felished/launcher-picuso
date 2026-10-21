@@ -2837,6 +2837,50 @@
             "MD5": "81d542abb72c4750c7218e0d975e3368",
             "path": "config/yacl.json5"
           }
+        },
+        {
+          "id": "Immersive-Vehicles-1.20.1-24.0.0.jar",
+          "name": "Immersive-Vehicles-1.20.1-24.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6254897,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/Immersive-Vehicles-1.20.1-24.0.0.jar",
+            "MD5": "96fd07315c988dff6e5dff255ec4ba79",
+            "path": "mods/Immersive-Vehicles-1.20.1-24.0.0.jar"
+          }
+        },
+        {
+          "id": "MTS-Official-Pack-1.20.1-V29.jar",
+          "name": "MTS-Official-Pack-1.20.1-V29.jar",
+          "type": "File",
+          "artifact": {
+            "size": 70997298,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/MTS-Official-Pack-1.20.1-V29.jar",
+            "MD5": "f21a397cce53a4ef26c09c1c65a6a3d7",
+            "path": "mods/MTS-Official-Pack-1.20.1-V29.jar"
+          }
+        },
+        {
+          "id": "UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
+          "name": "UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 126471022,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
+            "MD5": "7c18d0129fe7e6919690a6273eb05f18",
+            "path": "mods/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar"
+          }
+        },
+        {
+          "id": "UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
+          "name": "UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 32034767,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
+            "MD5": "9f598bd7ba33eb0443adbe3f13c4fabe",
+            "path": "mods/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar"
+          }
         }
       ]
     }
