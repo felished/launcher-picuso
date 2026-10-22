@@ -624,6 +624,16 @@
           }
         },
         {
+          "id": "net.blay09.mods:defaultoptions:18.0.5@jar",
+          "name": "Default Options",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 101393,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/defaultoptions-forge-1.20.1-18.0.5.jar",
+            "MD5": "9fe459e42e35d5852ed89bcae5da2164"
+          }
+        },
+        {
           "id": "de.markusbordihn.easynpc.bundle:easy_npc_bundle:7.16.0@jar",
           "name": "Easy NPC: Bundle",
           "type": "ForgeMod",
@@ -698,9 +708,9 @@
           "name": "Fast group",
           "type": "ForgeMod",
           "artifact": {
-            "size": 13728,
+            "size": 13853,
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/fastgroup-1.0.0.jar",
-            "MD5": "4e040f08a6a27046b09f1e89d90a592c"
+            "MD5": "ed6d494a01c47ae020d529dd797be6d3"
           }
         },
         {
