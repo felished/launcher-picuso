@@ -484,6 +484,16 @@
           }
         },
         {
+          "id": "de.nekeras.borderless:borderlesswindow:1.20-1.6.0@jar",
+          "name": "Borderless Window",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 44027,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/BorderlessWindow-1.20-1.6.0.jar",
+            "MD5": "da915b654d2997e26e26b461644ff8e9"
+          }
+        },
+        {
           "id": "de.maxhenkel:camera:1.20.1-1.0.20@jar",
           "name": "Camera Mod",
           "type": "ForgeMod",
@@ -551,6 +561,16 @@
             "size": 245644,
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.23.jar",
             "MD5": "a486f676f5e47e5846e31cb66cb5c16d"
+          }
+        },
+        {
+          "id": "com.leclowndu93150:corpsecurioscompat:4.2.0@jar",
+          "name": "Corpse Curios Compatibility",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22579,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/corpsecurioscompat-1.20.1-Forge-4.2.0.jar",
+            "MD5": "3cf13a655b8fcffca6b64d61d4b69a09"
           }
         },
         {
@@ -631,6 +651,16 @@
             "size": 874535,
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Cuffed-1.20.1-1.3.15.jar",
             "MD5": "3387101034814097b2384c8acf387bce"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
           }
         },
         {
