@@ -474,6 +474,16 @@
           }
         },
         {
+          "id": "com.leclowndu93150:baguettelib:2.0.7@jar",
+          "name": "BaguetteLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63126,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/baguettelib-1.20.1-Forge-2.0.7.jar",
+            "MD5": "d793e958b7c15a6e2cd7da99834dd715"
+          }
+        },
+        {
           "id": "net.blay09.mods:balm:7.3.44@jar",
           "name": "Balm",
           "type": "ForgeMod",
