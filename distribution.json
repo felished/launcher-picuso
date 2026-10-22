@@ -758,9 +758,9 @@
           "name": "Fast group",
           "type": "ForgeMod",
           "artifact": {
-            "size": 13853,
+            "size": 13893,
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/fastgroup-1.0.0.jar",
-            "MD5": "ed6d494a01c47ae020d529dd797be6d3"
+            "MD5": "b5c8f069544431dc0ccbb5f658543a5d"
           }
         },
         {
