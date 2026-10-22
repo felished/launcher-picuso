@@ -694,6 +694,16 @@
           }
         },
         {
+          "id": "com.polno:fastgroup:1.0.0@jar",
+          "name": "Fast group",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13728,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/fastgroup-1.0.0.jar",
+            "MD5": "4e040f08a6a27046b09f1e89d90a592c"
+          }
+        },
+        {
           "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
           "name": "Ferrite Core",
           "type": "ForgeMod",
