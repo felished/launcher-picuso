@@ -494,6 +494,16 @@
           }
         },
         {
+          "id": "rbasamoyai.betsyross:betsyross:2.1.2+mc.1.20.1-forge@jar",
+          "name": "Betsy Ross",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 355085,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/betsyross-2.1.2mc.1.20.1-forge.jar",
+            "MD5": "a0320b8b3428db968fcbd6f6ac9be428"
+          }
+        },
+        {
           "id": "de.nekeras.borderless:borderlesswindow:1.20-1.6.0@jar",
           "name": "Borderless Window",
           "type": "ForgeMod",
@@ -874,6 +884,16 @@
           }
         },
         {
+          "id": "immersive_paintings:immersive_paintings:0.6.13+1.20.1@jar",
+          "name": "Immersive Paintings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4856103,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/immersive_paintings-0.6.131.20.1-forge.jar",
+            "MD5": "ab2fec8953068e5b3578dd4b8439bd4a"
+          }
+        },
+        {
           "id": "mcinterface1201:mts:24.0.0@jar",
           "name": "Immersive Vehicles (formerly MTS)",
           "type": "ForgeMod",
@@ -891,6 +911,16 @@
             "size": 6892582,
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/jei-1.20.1-forge-15.74.0.226.jar",
             "MD5": "cd9681f2696672687d3914aade81220b"
+          }
+        },
+        {
+          "id": "de.keksuccino:justzoom:3.0.1@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 340610,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/justzoom_forge_3.0.1_MC_1.20.1.jar",
+            "MD5": "0a3bec47d67fdb9be694f88b07b86b1e"
           }
         },
         {
