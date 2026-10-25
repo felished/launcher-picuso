@@ -474,6 +474,16 @@
           }
         },
         {
+          "id": "artifacts:artifacts:9.5.19@jar",
+          "name": "Artifacts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 850974,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/artifacts-forge-9.5.19.jar",
+            "MD5": "54a59ba2d659e97aaff43264dd63e9c3"
+          }
+        },
+        {
           "id": "com.leclowndu93150:baguettelib:2.0.7@jar",
           "name": "BaguetteLib",
           "type": "ForgeMod",
@@ -524,6 +534,16 @@
           }
         },
         {
+          "id": "earth.terrarium:chipped:3.0.7@jar",
+          "name": "Chipped",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15060263,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
+            "MD5": "c6c76e78805b357757bf47b04c7286e7"
+          }
+        },
+        {
           "id": "com.ldtteam:cleanswing:1.8@jar",
           "name": "Clean Swing Through Grass",
           "type": "ForgeMod",
@@ -551,6 +571,16 @@
             "size": 1509649,
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/cofh_core-1.20.1-11.0.2.56.jar",
             "MD5": "8d5ecdae594951c49899b6bf38b41b7d"
+          }
+        },
+        {
+          "id": "com.supermartijn642:connectedglass:1.1.14@jar",
+          "name": "Connected Glass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 873714,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/connectedglass-1.1.14-forge-mc1.20.1.jar",
+            "MD5": "7b7a482c48dc0e76120f0bd91af1e01a"
           }
         },
         {
@@ -751,6 +781,16 @@
             "size": 26191988,
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/fancymenu_forge_3.9.14_MC_1.20.1.jar",
             "MD5": "4a27ef9d0e6b8cc9c32183cf843b99ef"
+          }
+        },
+        {
+          "id": "net.mcexpanded:fancytabsections:6.2.3-FORGE-1.20.1@jar",
+          "name": "Fancy Tab Sections",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 90662,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/fancytabsections-6.2.3-FORGE-1.20.1.jar",
+            "MD5": "4d0bfcbc18c5f18a405e6b8c9ae088f5"
           }
         },
         {
@@ -984,6 +1024,16 @@
           }
         },
         {
+          "id": "com.wdiscute:libtooltips:2.3.2-FORGE-1.20.1@jar",
+          "name": "Wd's Tooltips Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82621,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/libtooltips-2.3.2-FORGE-1.20.1.jar",
+            "MD5": "41a4231b5fe4c3129291d39ed7d5e546"
+          }
+        },
+        {
           "id": "melonslise.locks:locks:1.7.5@jar",
           "name": "Locks",
           "type": "ForgeMod",
@@ -1184,29 +1234,6 @@
           }
         },
         {
-<<<<<<< HEAD
-=======
-          "id": "de.sarocesch.sarosconstructionmod:saros_construction_mod:1.9@jar",
-          "name": "Saro´s Construction Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 267282,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Saros-Construction-Mod-1.20.1-1.9.jar",
-            "MD5": "9696f8ba2db95f89bb15afadf991e972"
-          }
-        },
-        {
-          "id": "de.sarocesch.sarosroadblocksmod:saros_road_blocks_mod:5.15@jar",
-          "name": "Saro´s Road Blocks Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1875174,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Saros-Road-Blocks-Forge-1.20.1-5.15.jar",
-            "MD5": "610ec7bdb02ff975c4f262d1f569d04e"
-          }
-        },
-        {
->>>>>>> parent of 8aa78a8 (Revert "CAMBIOS")
           "id": "de.sarocesch.sarosroadsignsmod:saros_road_signs_mod:4.13@jar",
           "name": "Saros Road signs mod",
           "type": "ForgeMod",
@@ -1237,6 +1264,36 @@
           }
         },
         {
+          "id": "com.wdiscute.sellingbin:selling_bin:1.4.3-FORGE-1.20.1@jar",
+          "name": "Wd's Selling Bin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2001711,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/selling_bin-1.4.3-FORGE-1.20.1.jar",
+            "MD5": "00a9150a75f44d90b6e9cafee43e1b21"
+          }
+        },
+        {
+          "id": "net.silentchaos512.gear:silentgear:3.6.7@jar",
+          "name": "Silent Gear",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2747490,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/silent-gear-1.20.1-3.6.7.jar",
+            "MD5": "ad1c965e6ede3e866d9b9911f0a843f1"
+          }
+        },
+        {
+          "id": "net.silentchaos512.lib:silentlib:8.0.0@jar",
+          "name": "Silent Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 225949,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/silent-lib-1.20.1-8.0.0.jar",
+            "MD5": "e12dabd49a8f5155284950326909635f"
+          }
+        },
+        {
           "id": "com.codinglitch:simpleradio:1.20.1-4.5.7.9@jar",
           "name": "Simple Radio",
           "type": "ForgeMod",
@@ -1264,6 +1321,16 @@
             "size": 588268,
             "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/sliceanddice-forge-3.6.0.jar",
             "MD5": "d32f1794294f473f0a63296cac72802d"
+          }
+        },
+        {
+          "id": "com.wdiscute:starcatcher:3.3.10-FORGE-1.20.1@jar",
+          "name": "Starcatcher",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6896692,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/starcatcher-3.3.10-FORGE-1.20.1.jar",
+            "MD5": "43b10ffaadb84d7102271f1183a22e3a"
           }
         },
         {
