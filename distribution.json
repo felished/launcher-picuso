@@ -1235,6 +1235,7 @@
         },
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
           "id": "net.silentchaos512.gear:silentgear:3.6.7@jar",
           "name": "Silent Gear",
           "type": "ForgeMod",
@@ -1257,6 +1258,8 @@
         {
 =======
 >>>>>>> parent of 130db22 (asa)
+=======
+>>>>>>> parent of 0956a99 (Reapply "DESHACER")
           "id": "com.codinglitch:simpleradio:1.20.1-4.5.7.9@jar",
           "name": "Simple Radio",
           "type": "ForgeMod",
