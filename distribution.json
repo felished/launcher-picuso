@@ -7,7 +7,7 @@
       "id": "virgoland-1.20.1",
       "name": "Virgolan2",
       "description": "Only Virgos",
-      "icon": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/icon.png",
+      "icon": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/icon.png",
       "version": "1.0.0",
       "address": "virgolandos.mintservers.com",
       "minecraftVersion": "1.20.1",
@@ -22,7 +22,7 @@
           "artifact": {
             "size": 7398,
             "MD5": "39c68f8be018557068512f16cf3f97fa",
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar"
+            "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar"
           },
           "subModules": [
             {
@@ -32,7 +32,7 @@
               "artifact": {
                 "size": 16554,
                 "MD5": "eede38b0c090f69c7789cd35e753853d",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
               }
             },
             {
@@ -43,7 +43,7 @@
               "artifact": {
                 "size": 118913,
                 "MD5": "340eb6124a32dab3bfaea8f1b2f3dd02",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
@@ -55,7 +55,7 @@
               "artifact": {
                 "size": 16854,
                 "MD5": "1193446859d078e83d9fcc4d8a39f44d",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
@@ -67,7 +67,7 @@
               "artifact": {
                 "size": 4999,
                 "MD5": "13e469f44fc6fff975688c6b18f8e9a1",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
@@ -79,7 +79,7 @@
               "artifact": {
                 "size": 2777708,
                 "MD5": "f202df135ad32fef7e7c42e957c142af",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
               },
               "subModules": []
             },
@@ -91,7 +91,7 @@
               "artifact": {
                 "size": 4848366,
                 "MD5": "5c4d8867f3152f9c397859436a06321c",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar"
               },
               "subModules": []
             },
@@ -103,7 +103,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -115,7 +115,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -127,7 +127,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -138,7 +138,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -148,7 +148,7 @@
               "artifact": {
                 "size": 126113,
                 "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
@@ -158,7 +158,7 @@
               "artifact": {
                 "size": 73498,
                 "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
@@ -168,7 +168,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
@@ -178,7 +178,7 @@
               "artifact": {
                 "size": 94559,
                 "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
@@ -188,7 +188,7 @@
               "artifact": {
                 "size": 35151,
                 "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -198,7 +198,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -208,7 +208,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -218,7 +218,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -228,7 +228,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -238,7 +238,7 @@
               "artifact": {
                 "size": 31872,
                 "MD5": "5295505357ba9b98450c5e3121f82191",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
               }
             },
             {
@@ -248,7 +248,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -258,7 +258,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -268,7 +268,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -278,7 +278,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -288,7 +288,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -298,7 +298,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -308,7 +308,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -318,7 +318,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -328,7 +328,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -338,7 +338,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -348,7 +348,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -358,7 +358,7 @@
               "artifact": {
                 "size": 2167292,
                 "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
@@ -368,7 +368,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -378,7 +378,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -388,7 +388,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -398,7 +398,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -408,7 +408,7 @@
               "artifact": {
                 "size": 267079,
                 "MD5": "9446521da84ab53aa7a81af82d4e854a",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
               }
             },
             {
@@ -418,7 +418,7 @@
               "artifact": {
                 "size": 170518,
                 "MD5": "828cdcc361baffcdd38d7b7d05c62e35",
-                "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
+                "url": "https://github.com/felished/launcher-picuso/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
               }
             }
           ]
@@ -429,7 +429,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4995865,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/1.20.1-SecurityCraft-v1.10.2.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/1.20.1-SecurityCraft-v1.10.2.1.jar",
             "MD5": "07c5b4516075755002d7af62eb4f8fdd"
           }
         },
@@ -439,7 +439,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 218740,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/almostunified-forge-1.20.1-0.11.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/almostunified-forge-1.20.1-0.11.0.jar",
             "MD5": "7676a1c11f933ecc50fd34e4c53a0388"
           }
         },
@@ -449,7 +449,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 227511,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar",
             "MD5": "d4f8d1945416d5150cd67d27469b5ce9"
           }
         },
@@ -459,7 +459,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
           }
         },
@@ -469,7 +469,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
           }
         },
@@ -479,7 +479,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 63126,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/baguettelib-1.20.1-Forge-2.0.7.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/baguettelib-1.20.1-Forge-2.0.7.jar",
             "MD5": "d793e958b7c15a6e2cd7da99834dd715"
           }
         },
@@ -489,7 +489,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 561741,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.44.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.44.jar",
             "MD5": "1f438ba183dbe403336c8bef9445ce31"
           }
         },
@@ -499,7 +499,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 355085,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/betsyross-2.1.2mc.1.20.1-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/betsyross-2.1.2mc.1.20.1-forge.jar",
             "MD5": "a0320b8b3428db968fcbd6f6ac9be428"
           }
         },
@@ -509,7 +509,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 44027,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/BorderlessWindow-1.20-1.6.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/BorderlessWindow-1.20-1.6.0.jar",
             "MD5": "da915b654d2997e26e26b461644ff8e9"
           }
         },
@@ -519,7 +519,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 299726,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.20.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.20.jar",
             "MD5": "7f707898d1ed0753a5a5043cbdf806a8"
           }
         },
@@ -529,7 +529,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8305,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/cleanswing-1.20-1.8.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/cleanswing-1.20-1.8.jar",
             "MD5": "84f9950e09245d82f72a6461f57ca30f"
           }
         },
@@ -539,7 +539,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
           }
         },
@@ -549,7 +549,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1509649,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/cofh_core-1.20.1-11.0.2.56.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/cofh_core-1.20.1-11.0.2.56.jar",
             "MD5": "8d5ecdae594951c49899b6bf38b41b7d"
           }
         },
@@ -559,7 +559,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 115280,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
             "MD5": "952274bc9994bba9733e8747558f73fa"
           }
         },
@@ -569,7 +569,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2003713,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/copycats-3.0.10+mc.1.20.1-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/copycats-3.0.10+mc.1.20.1-forge.jar",
             "MD5": "a01e55fd62e02a141083f45865e72cfc"
           }
         },
@@ -579,7 +579,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 245644,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.23.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.23.jar",
             "MD5": "a486f676f5e47e5846e31cb66cb5c16d"
           }
         },
@@ -589,7 +589,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22579,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/corpsecurioscompat-1.20.1-Forge-4.2.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/corpsecurioscompat-1.20.1-Forge-4.2.0.jar",
             "MD5": "3cf13a655b8fcffca6b64d61d4b69a09"
           }
         },
@@ -599,7 +599,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 408628,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/create_better_motors-4.0.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/create_better_motors-4.0.0.jar",
             "MD5": "3f788dc711665aa8f8c48db755515067"
           }
         },
@@ -609,7 +609,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 19170905,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/create-1.20.1-6.0.8.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/create-1.20.1-6.0.8.jar",
             "MD5": "6ebc5c57638c1678359eac65b924c310"
           }
         },
@@ -619,7 +619,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1577313,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/createaddition-1.20.1-1.3.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/createaddition-1.20.1-1.3.3.jar",
             "MD5": "1c0d2275ead3e4756d77ac5a86f135ab"
           }
         },
@@ -629,7 +629,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3509013,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/createdeco-2.0.3-1.20.1-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/createdeco-2.0.3-1.20.1-forge.jar",
             "MD5": "3e0976b862fd087493c7356f623f5cd7"
           }
         },
@@ -639,7 +639,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1144290,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
             "MD5": "bcbe086d262cc16313b34121939bb61f"
           }
         },
@@ -649,7 +649,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2155802,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-4.0.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-4.0.1.jar",
             "MD5": "4f423e0d4114bd04c8651320a61b3a04"
           }
         },
@@ -659,7 +659,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 86280,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/croptopiadelight-1.3.2.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/croptopiadelight-1.3.2.jar",
             "MD5": "170a0f4ccd9967b32d0bc032529baa04"
           }
         },
@@ -669,7 +669,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 874535,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Cuffed-1.20.1-1.3.15.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Cuffed-1.20.1-1.3.15.jar",
             "MD5": "3387101034814097b2384c8acf387bce"
           }
         },
@@ -679,7 +679,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 398066,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
           }
         },
@@ -689,7 +689,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 101393,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/defaultoptions-forge-1.20.1-18.0.5.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/defaultoptions-forge-1.20.1-18.0.5.jar",
             "MD5": "9fe459e42e35d5852ed89bcae5da2164"
           }
         },
@@ -699,7 +699,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25442,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/easy_npc_bundle-forge-1.20.1-7.16.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/easy_npc_bundle-forge-1.20.1-7.16.0.jar",
             "MD5": "00e152d1b745442774f30b469d939f7f"
           }
         },
@@ -709,7 +709,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1162756,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/easy_npc_config_ui-forge-1.20.1-7.16.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/easy_npc_config_ui-forge-1.20.1-7.16.0.jar",
             "MD5": "b7ba74a4f86a7fbb116ac755977e4553"
           }
         },
@@ -719,7 +719,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3181187,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/easy_npc-forge-1.20.1-7.16.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/easy_npc-forge-1.20.1-7.16.0.jar",
             "MD5": "8b61e67ab43640e98c6efaaa292162fe"
           }
         },
@@ -729,7 +729,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -739,7 +739,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 756864,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
             "MD5": "f8b4d202f3fc4ffaf1bb8efd79f860bd"
           }
         },
@@ -749,7 +749,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26191988,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/fancymenu_forge_3.9.14_MC_1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/fancymenu_forge_3.9.14_MC_1.20.1.jar",
             "MD5": "4a27ef9d0e6b8cc9c32183cf843b99ef"
           }
         },
@@ -759,7 +759,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3311051,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.3.4.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.3.4.jar",
             "MD5": "a61302a31849ad9c37c6ac6e59268b75"
           }
         },
@@ -769,7 +769,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13893,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/fastgroup-1.0.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/fastgroup-1.0.0.jar",
             "MD5": "b5c8f069544431dc0ccbb5f658543a5d"
           }
         },
@@ -779,7 +779,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
@@ -789,7 +789,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 383868,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/framework-forge-1.20.1-0.8.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/framework-forge-1.20.1-0.8.0.jar",
             "MD5": "6d9a54cd004b15028673b309243e07a2"
           }
         },
@@ -799,7 +799,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 780558,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/ftb-library-forge-2001.2.13.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/ftb-library-forge-2001.2.13.jar",
             "MD5": "9de2c76938392445e735a98b352da9d4"
           }
         },
@@ -809,7 +809,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1255469,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/ftb-quests-forge-2001.4.22.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/ftb-quests-forge-2001.4.22.jar",
             "MD5": "a05a49243da4a2505413d74e13102b16"
           }
         },
@@ -819,7 +819,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 252579,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/ftb-teams-forge-2001.3.2.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/ftb-teams-forge-2001.3.2.jar",
             "MD5": "1c547d6f1b22f461f84c5fb79067b0ec"
           }
         },
@@ -829,7 +829,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 129725,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/ftb-xmod-compat-forge-2.1.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/ftb-xmod-compat-forge-2.1.3.jar",
             "MD5": "6d01bd4bc73c6ce36d0d91c56bb27772"
           }
         },
@@ -839,7 +839,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3144585,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/ftbmaterials-forge-20.1.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/ftbmaterials-forge-20.1.1.jar",
             "MD5": "f7013433283a7c8fab0acd077406b7a7"
           }
         },
@@ -849,7 +849,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 972917,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/fusion-1.3.16-forge-mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/fusion-1.3.16-forge-mc1.20.1.jar",
             "MD5": "98397f1303e90b91b2580a22a8e910f3"
           }
         },
@@ -859,7 +859,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1038209,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.4.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.4.jar",
             "MD5": "83c73bcbf5778235569025ed968dc3ec"
           }
         },
@@ -869,7 +869,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 632182,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/gundb-2.2.2-1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/gundb-2.2.2-1.20.1.jar",
             "MD5": "4a1daeda992a4ee22c9dba4a496a9a88"
           }
         },
@@ -879,7 +879,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7111059,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar",
             "MD5": "a5291f94fc830a80d2caf7d2ab7cd4fd"
           }
         },
@@ -889,7 +889,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4856103,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/immersive_paintings-0.6.131.20.1-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/immersive_paintings-0.6.131.20.1-forge.jar",
             "MD5": "ab2fec8953068e5b3578dd4b8439bd4a"
           }
         },
@@ -899,7 +899,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6254897,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Immersive-Vehicles-1.20.1-24.0.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Immersive-Vehicles-1.20.1-24.0.0.jar",
             "MD5": "96fd07315c988dff6e5dff255ec4ba79"
           }
         },
@@ -909,7 +909,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6892582,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/jei-1.20.1-forge-15.74.0.226.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/jei-1.20.1-forge-15.74.0.226.jar",
             "MD5": "cd9681f2696672687d3914aade81220b"
           }
         },
@@ -919,7 +919,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 340610,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/justzoom_forge_3.0.1_MC_1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/justzoom_forge_3.0.1_MC_1.20.1.jar",
             "MD5": "0a3bec47d67fdb9be694f88b07b86b1e"
           }
         },
@@ -929,7 +929,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 625185,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "d69107c593e361e1b7b96733250bd098"
           }
         },
@@ -939,7 +939,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7442998,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar",
             "MD5": "d6a40dede74edbe646b34a1bafd53b4d"
           }
         },
@@ -949,7 +949,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30960,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/kubejs-create-forge-2001.3.0-build.8.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/kubejs-create-forge-2001.3.0-build.8.jar",
             "MD5": "c76f71ba6d16e6fe50e76b1862b58dff"
           }
         },
@@ -959,7 +959,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1658792,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.26.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.26.jar",
             "MD5": "64ee6615f19fb9b2b11fee8b7385eaaf"
           }
         },
@@ -969,7 +969,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 120029,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Lazrs-Lib-1.20-1.1.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Lazrs-Lib-1.20-1.1.1.jar",
             "MD5": "adc32a47cfec91a0d1708d5e28f1e593"
           }
         },
@@ -979,7 +979,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 67140,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/lexiconfig-forge-1.4.21-epic.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/lexiconfig-forge-1.4.21-epic.jar",
             "MD5": "6553c668d5e95036c6635443e623f8f8"
           }
         },
@@ -989,7 +989,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 764811,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/locks_reforged-1.7.5.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/locks_reforged-1.7.5.jar",
             "MD5": "3e4727797a5eac39fce339c9878e72e5"
           }
         },
@@ -999,7 +999,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6614642,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/lrtactical-1.20.1-0.4.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/lrtactical-1.20.1-0.4.3.jar",
             "MD5": "2a5f8ba8a792e8ff1977eb70df230cc7"
           }
         },
@@ -1009,7 +1009,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1246753,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/mcw-doors-1.1.5-mc1.20.1forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/mcw-doors-1.1.5-mc1.20.1forge.jar",
             "MD5": "6a8504f9f2a9dd1ebbf0cac848ad2a25"
           }
         },
@@ -1019,7 +1019,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 554055,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
             "MD5": "40293c4a7b2d02cf4ed08b58f8123371"
           }
         },
@@ -1029,7 +1029,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320692,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
             "MD5": "04b5e1a31c4b76b9fdbf8e111ef9ae57"
           }
         },
@@ -1039,7 +1039,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 604510,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
             "MD5": "59e11a2be482c75aa13bcfaace597594"
           }
         },
@@ -1049,7 +1049,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37178,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "MD5": "6b528d368f7fcbf737df28f2457cdec6"
           }
         },
@@ -1059,7 +1059,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 364842,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/mezz_config-1.20.1-forge-0.6.8.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/mezz_config-1.20.1-forge-0.6.8.jar",
             "MD5": "c609eaeef43e3aa1fd2795168ddb1747"
           }
         },
@@ -1069,7 +1069,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1010226,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/modernfix-forge-5.27.89+mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/modernfix-forge-5.27.89+mc1.20.1.jar",
             "MD5": "99e2c98c8f5924ff034580ef8f6cdbe5"
           }
         },
@@ -1079,7 +1079,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 70997298,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/MTS-Official-Pack-1.20.1-V29.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/MTS-Official-Pack-1.20.1-V29.jar",
             "MD5": "f21a397cce53a4ef26c09c1c65a6a3d7"
           }
         },
@@ -1089,7 +1089,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 671605,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
             "MD5": "95bdd5558d34044f54aab0ce292e679b"
           }
         },
@@ -1099,7 +1099,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 282474,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Placebo-1.20.1-8.6.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Placebo-1.20.1-8.6.3.jar",
             "MD5": "13133ab9989e8474931cd7a86bd19cc5"
           }
         },
@@ -1109,7 +1109,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 181437,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
           }
         },
@@ -1119,7 +1119,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5298162,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
             "MD5": "e07fc42680a0163c99c21cfa9afb9816"
           }
         },
@@ -1129,7 +1129,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 301935,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/polymorph-forge-0.49.11+1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/polymorph-forge-0.49.11+1.20.1.jar",
             "MD5": "1920ae2f01cf42eae705ab5530671d7d"
           }
         },
@@ -1139,7 +1139,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 237815,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/puffish_attributes-0.8.2-1.20-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/puffish_attributes-0.8.2-1.20-forge.jar",
             "MD5": "2156c02cb57aae6758222f3bc66409d8"
           }
         },
@@ -1149,7 +1149,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11895585,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/rechiseled-1.2.6-forge-mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/rechiseled-1.2.6-forge-mc1.20.1.jar",
             "MD5": "04f9eeb74150fe5063305a5507e06845"
           }
         },
@@ -1159,7 +1159,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 432753,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
             "MD5": "a040c6cc86f653fddf280ff3af9068f0"
           }
         },
@@ -1169,7 +1169,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 124745,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/revive_through_grass-0.1.1+1.20.1-Forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/revive_through_grass-0.1.1+1.20.1-Forge.jar",
             "MD5": "51e35b54659f47213d7389023172f606"
           }
         },
@@ -1179,7 +1179,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1798244,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
             "MD5": "59387620b0ef6becbff02c7c1636ad3e"
           }
         },
@@ -1189,7 +1189,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 267282,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Saros-Construction-Mod-1.20.1-1.9.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Saros-Construction-Mod-1.20.1-1.9.jar",
             "MD5": "9696f8ba2db95f89bb15afadf991e972"
           }
         },
@@ -1199,7 +1199,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1875174,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Saros-Road-Blocks-Forge-1.20.1-5.15.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Saros-Road-Blocks-Forge-1.20.1-5.15.jar",
             "MD5": "610ec7bdb02ff975c4f262d1f569d04e"
           }
         },
@@ -1209,7 +1209,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1862971,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Saros-Road-Signs-Forge-1.20.1-4.14.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Saros-Road-Signs-Forge-1.20.1-4.14.jar",
             "MD5": "45588d52fc3b2274530ed99e1164bda1"
           }
         },
@@ -1219,7 +1219,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 849676,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/scholar-1.20.1-1.2.9-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/scholar-1.20.1-1.2.9-forge.jar",
             "MD5": "8eb0f65238421a4f30ccf7da4f87eb23"
           }
         },
@@ -1229,28 +1229,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77732,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.3.jar",
             "MD5": "9f5418e9c08c18a375ef42fada4bcef2"
-          }
-        },
-        {
-          "id": "net.silentchaos512.gear:silentgear:3.6.7@jar",
-          "name": "Silent Gear",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2747490,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/silent-gear-1.20.1-3.6.7.jar",
-            "MD5": "ad1c965e6ede3e866d9b9911f0a843f1"
-          }
-        },
-        {
-          "id": "net.silentchaos512.lib:silentlib:8.0.0@jar",
-          "name": "Silent Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 225949,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/silent-lib-1.20.1-8.0.0.jar",
-            "MD5": "e12dabd49a8f5155284950326909635f"
           }
         },
         {
@@ -1259,7 +1239,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1206013,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/simpleradio-forge-1.20.1-4.5.7.9.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/simpleradio-forge-1.20.1-4.5.7.9.jar",
             "MD5": "80b1036baf2abd1a4ecfd856469cf77a"
           }
         },
@@ -1269,7 +1249,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 135614,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/simpleshops-1.2.2.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/simpleshops-1.2.2.jar",
             "MD5": "2620b7e35ea1398f2e31e3a6ebf0555f"
           }
         },
@@ -1279,7 +1259,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 588268,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/sliceanddice-forge-3.6.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/sliceanddice-forge-3.6.0.jar",
             "MD5": "d32f1794294f473f0a63296cac72802d"
           }
         },
@@ -1289,7 +1269,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 206584,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
             "MD5": "cbece61946d4e059e90806c19dd66082"
           }
         },
@@ -1299,7 +1279,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 559829,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/supermartijn642corelib-1.1.25a-forge-mc1.20.1.jar",
             "MD5": "0b75fde47cf73aa2a34b9923d8cd202c"
           }
         },
@@ -1309,7 +1289,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 432468,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/tacz_c-1.0.2-forge-1.20.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/tacz_c-1.0.2-forge-1.20.1.jar",
             "MD5": "31955b865a8988df194723fb48be1ff3"
           }
         },
@@ -1319,7 +1299,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 57472579,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/tacz-1.20.1-1.1.8-hotfix2.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/tacz-1.20.1-1.1.8-hotfix2.jar",
             "MD5": "ae216c160187407831a2174218beff70"
           }
         },
@@ -1329,7 +1309,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 126471022,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
             "MD5": "7c18d0129fe7e6919690a6273eb05f18"
           }
         },
@@ -1339,7 +1319,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 32034767,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
             "MD5": "9f598bd7ba33eb0443adbe3f13c4fabe"
           }
         },
@@ -1349,7 +1329,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4923439,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.22.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.22.jar",
             "MD5": "4e513ad55bf64e5ea4716544d51f1fde"
           }
         },
@@ -1359,7 +1339,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2196194,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/xaerominimap-forge-1.20.1-26.6.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/xaerominimap-forge-1.20.1-26.6.0.jar",
             "MD5": "90ad4deb039c88524e63d9a6f361c37d"
           }
         },
@@ -1369,7 +1349,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1429424,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/xaeroworldmap-forge-1.20.1-1.47.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/xaeroworldmap-forge-1.20.1-1.47.0.jar",
             "MD5": "68adfbd2bb723adddf2b71ba8e15e51f"
           }
         },
@@ -1379,7 +1359,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 431716,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/xercapaint-1.20.1-2.0.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/xercapaint-1.20.1-2.0.0.jar",
             "MD5": "36af2d2bf11ce94162ac2d08ba71efdf"
           }
         },
@@ -1389,7 +1369,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1105891,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
             "MD5": "2437cb642e24726a83f864e345f24479"
           }
         },
@@ -1399,7 +1379,7 @@
           "type": "File",
           "artifact": {
             "size": 25,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/almostunified/startup.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/almostunified/startup.json",
             "MD5": "19ca9f206a50dd351560f85a07df56f7",
             "path": "config/almostunified/startup.json"
           }
@@ -1410,7 +1390,7 @@
           "type": "File",
           "artifact": {
             "size": 1756,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/almostunified/unify.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/almostunified/unify.json",
             "MD5": "31a980b5e6de7ba019d9c26d0e38c2c4",
             "path": "config/almostunified/unify.json"
           }
@@ -1420,9 +1400,9 @@
           "name": "appleskin-client.toml",
           "type": "File",
           "artifact": {
-            "size": 1361,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/appleskin-client.toml",
-            "MD5": "999dd7d912a7eb915c59b1025710ca12",
+            "size": 1337,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/appleskin-client.toml",
+            "MD5": "231dc83013e53ea576f6b38629efb713",
             "path": "config/appleskin-client.toml"
           }
         },
@@ -1431,9 +1411,9 @@
           "name": "attributeslib.cfg",
           "type": "File",
           "artifact": {
-            "size": 2686,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/attributeslib.cfg",
-            "MD5": "f8872923e20d465ce30bceec3525710e",
+            "size": 2619,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/attributeslib.cfg",
+            "MD5": "dc4ee6b922ad2e9f88064abf398cbe39",
             "path": "config/attributeslib.cfg"
           }
         },
@@ -1442,9 +1422,9 @@
           "name": "camera-client.toml",
           "type": "File",
           "artifact": {
-            "size": 283,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/camera-client.toml",
-            "MD5": "71956bda8dbc40642cf44ef7e5d881e0",
+            "size": 274,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/camera-client.toml",
+            "MD5": "1ce78bcbf1f15d1d73a9d7e4bc9643c1",
             "path": "config/camera-client.toml"
           }
         },
@@ -1453,9 +1433,9 @@
           "name": "cofh_core-client.toml",
           "type": "File",
           "artifact": {
-            "size": 1091,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/cofh_core-client.toml",
-            "MD5": "362a25292db4aaa0411d742608fb20ef",
+            "size": 1074,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/cofh_core-client.toml",
+            "MD5": "a739791eca59cfea0b74a18034d76dba",
             "path": "config/cofh_core-client.toml"
           }
         },
@@ -1464,9 +1444,9 @@
           "name": "cofh_core-common.toml",
           "type": "File",
           "artifact": {
-            "size": 656,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/cofh_core-common.toml",
-            "MD5": "1d0c65a93b31a273f9573d6c4be53af9",
+            "size": 637,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/cofh_core-common.toml",
+            "MD5": "55e412854c000d061f03666bc1357084",
             "path": "config/cofh_core-common.toml"
           }
         },
@@ -1475,9 +1455,9 @@
           "name": "copycats-client.toml",
           "type": "File",
           "artifact": {
-            "size": 342,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/copycats-client.toml",
-            "MD5": "ab8d56d84f2f6e457c812b76fa598c36",
+            "size": 332,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/copycats-client.toml",
+            "MD5": "b41242701e161afc592764dc94e57a11",
             "path": "config/copycats-client.toml"
           }
         },
@@ -1486,9 +1466,9 @@
           "name": "copycats-common.toml",
           "type": "File",
           "artifact": {
-            "size": 2167,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/copycats-common.toml",
-            "MD5": "7e6ab8a22a025a2460d9efa6158b28aa",
+            "size": 2092,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/copycats-common.toml",
+            "MD5": "54f53b9a444d116c5e3965a521fa71d7",
             "path": "config/copycats-common.toml"
           }
         },
@@ -1497,9 +1477,9 @@
           "name": "create-client.toml",
           "type": "File",
           "artifact": {
-            "size": 4397,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/create-client.toml",
-            "MD5": "d276f313790d54d07df0fbb1916f6350",
+            "size": 4264,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/create-client.toml",
+            "MD5": "ab39ff8313deea3816310d557619ae54",
             "path": "config/create-client.toml"
           }
         },
@@ -1508,9 +1488,9 @@
           "name": "create-common.toml",
           "type": "File",
           "artifact": {
-            "size": 157,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/create-common.toml",
-            "MD5": "7503e1571dd136604d3a78582d1a6cb0",
+            "size": 148,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/create-common.toml",
+            "MD5": "b4921f5f493e86417f451cad5fba8c5e",
             "path": "config/create-common.toml"
           }
         },
@@ -1519,9 +1499,9 @@
           "name": "createaddition-common.toml",
           "type": "File",
           "artifact": {
-            "size": 4446,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/createaddition-common.toml",
-            "MD5": "c156f51d0723c2b75e51cecdc6abfac0",
+            "size": 4296,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/createaddition-common.toml",
+            "MD5": "8a4c6f7b38377f51b10cf31a56c864aa",
             "path": "config/createaddition-common.toml"
           }
         },
@@ -1530,9 +1510,9 @@
           "name": "create_better_motors-common.toml",
           "type": "File",
           "artifact": {
-            "size": 4714,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/create_better_motors-common.toml",
-            "MD5": "ee29ec7a0429d69082bc54b605ed95c1",
+            "size": 4465,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/create_better_motors-common.toml",
+            "MD5": "921e1ea4186a34d776421945248f6a4c",
             "path": "config/create_better_motors-common.toml"
           }
         },
@@ -1541,9 +1521,9 @@
           "name": "croptopia_v3.conf",
           "type": "File",
           "artifact": {
-            "size": 13630,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/croptopia/croptopia_v3.conf",
-            "MD5": "38415c0fb8215562510437175ec33986",
+            "size": 13204,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/croptopia/croptopia_v3.conf",
+            "MD5": "36344a03e5e0e378a577681c080a3af7",
             "path": "config/croptopia/croptopia_v3.conf"
           }
         },
@@ -1552,9 +1532,9 @@
           "name": "dialog_client.cfg",
           "type": "File",
           "artifact": {
-            "size": 279,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/dialog_client.cfg",
-            "MD5": "b0973c41bc944e6f0b8ed3394499d94f",
+            "size": 272,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/dialog_client.cfg",
+            "MD5": "5cafd15769f1a7f8d7471c0fc41e96c6",
             "path": "config/easy_npc/dialog_client.cfg"
           }
         },
@@ -1563,9 +1543,9 @@
           "name": "dialog_options.cfg",
           "type": "File",
           "artifact": {
-            "size": 475,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/dialog_options.cfg",
-            "MD5": "3d4e2226b4c22cbe244ef4e00541025b",
+            "size": 464,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/dialog_options.cfg",
+            "MD5": "ec85e004d1f03370c96aceefa241607f",
             "path": "config/easy_npc/dialog_options.cfg"
           }
         },
@@ -1574,9 +1554,9 @@
           "name": "highlight_client.cfg",
           "type": "File",
           "artifact": {
-            "size": 192,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/highlight_client.cfg",
-            "MD5": "19a7ca248171ac7e6139237f42f7028a",
+            "size": 187,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/highlight_client.cfg",
+            "MD5": "13878104355182df4a0f302fc205018a",
             "path": "config/easy_npc/highlight_client.cfg"
           }
         },
@@ -1585,9 +1565,9 @@
           "name": "name_tag_client.cfg",
           "type": "File",
           "artifact": {
-            "size": 465,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/name_tag_client.cfg",
-            "MD5": "cd83b6170fef189b2efb9bf61ab12bec",
+            "size": 455,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/name_tag_client.cfg",
+            "MD5": "e4c12bbf951b53e193f59ed828bb4ecf",
             "path": "config/easy_npc/name_tag_client.cfg"
           }
         },
@@ -1596,9 +1576,9 @@
           "name": "npc_base.cfg",
           "type": "File",
           "artifact": {
-            "size": 215,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/npc_base.cfg",
-            "MD5": "148fb80e61757b2fd854103db75ccd98",
+            "size": 210,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/npc_base.cfg",
+            "MD5": "bc4c5c742da795b128015c69b8435a20",
             "path": "config/easy_npc/npc_base.cfg"
           }
         },
@@ -1607,9 +1587,9 @@
           "name": "remote_texture.cfg",
           "type": "File",
           "artifact": {
-            "size": 247,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/remote_texture.cfg",
-            "MD5": "bce4fdf2a69ba71be4f2db9191f73d32",
+            "size": 242,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/remote_texture.cfg",
+            "MD5": "0aca775d9164a6fa341d43c642591ee4",
             "path": "config/easy_npc/remote_texture.cfg"
           }
         },
@@ -1618,9 +1598,9 @@
           "name": "render_entity_type_support.cfg",
           "type": "File",
           "artifact": {
-            "size": 31656,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/render_entity_type_support.cfg",
-            "MD5": "1b0c6aa3652b6e7683ed43ec0471f57f",
+            "size": 30648,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/render_entity_type_support.cfg",
+            "MD5": "2efb00c3c42a8d1863456e0787cca819",
             "path": "config/easy_npc/render_entity_type_support.cfg"
           }
         },
@@ -1629,9 +1609,9 @@
           "name": "security.cfg",
           "type": "File",
           "artifact": {
-            "size": 4384,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/security.cfg",
-            "MD5": "cb8547dc847755bad6e83ba3decbbcc3",
+            "size": 4315,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/security.cfg",
+            "MD5": "19d3d84aeef88b6eca7d572571e8f830",
             "path": "config/easy_npc/security.cfg"
           }
         },
@@ -1641,7 +1621,7 @@
           "type": "File",
           "artifact": {
             "size": 246,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/allay/allay_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/allay/allay_template.png",
             "MD5": "dc449d0dd6cb93d91fa6e34ecd44376a",
             "path": "config/easy_npc/skin/allay/allay_template.png"
           }
@@ -1652,7 +1632,7 @@
           "type": "File",
           "artifact": {
             "size": 283,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/cat/cat_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/cat/cat_template.png",
             "MD5": "ddb9d8f03724aa1fe201fd7fbefb81da",
             "path": "config/easy_npc/skin/cat/cat_template.png"
           }
@@ -1663,7 +1643,7 @@
           "type": "File",
           "artifact": {
             "size": 287,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/chicken/chicken_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/chicken/chicken_template.png",
             "MD5": "f06078d2850eb0020f2e86dd93c84a5a",
             "path": "config/easy_npc/skin/chicken/chicken_template.png"
           }
@@ -1674,7 +1654,7 @@
           "type": "File",
           "artifact": {
             "size": 255,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/creeper/creeper_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/creeper/creeper_template.png",
             "MD5": "460afd5ae6039e184859666d02797e9d",
             "path": "config/easy_npc/skin/creeper/creeper_template.png"
           }
@@ -1685,7 +1665,7 @@
           "type": "File",
           "artifact": {
             "size": 276,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/ender_man/ender_man_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/ender_man/ender_man_template.png",
             "MD5": "11a98be328121d89396fa59e1aa29df2",
             "path": "config/easy_npc/skin/ender_man/ender_man_template.png"
           }
@@ -1696,7 +1676,7 @@
           "type": "File",
           "artifact": {
             "size": 434,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/fairy/fairy_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/fairy/fairy_template.png",
             "MD5": "531b238034eb6fdcf494378d6de62d69",
             "path": "config/easy_npc/skin/fairy/fairy_template.png"
           }
@@ -1707,7 +1687,7 @@
           "type": "File",
           "artifact": {
             "size": 335,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/fox/fox_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/fox/fox_template.png",
             "MD5": "5850512e21b0c58b42207510a63a923d",
             "path": "config/easy_npc/skin/fox/fox_template.png"
           }
@@ -1718,7 +1698,7 @@
           "type": "File",
           "artifact": {
             "size": 360,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/humanoid/humanoid_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/humanoid/humanoid_template.png",
             "MD5": "a39224182358dcbf6615b9faeb732933",
             "path": "config/easy_npc/skin/humanoid/humanoid_template.png"
           }
@@ -1729,7 +1709,7 @@
           "type": "File",
           "artifact": {
             "size": 384,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
             "MD5": "41f831333d68c3a4535adbe574f0511c",
             "path": "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
           }
@@ -1740,7 +1720,7 @@
           "type": "File",
           "artifact": {
             "size": 531,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/husk/husk_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/husk/husk_template.png",
             "MD5": "66e672cdead5768165586f4b24c1f61c",
             "path": "config/easy_npc/skin/husk/husk_template.png"
           }
@@ -1751,7 +1731,7 @@
           "type": "File",
           "artifact": {
             "size": 300,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/illager/illager_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/illager/illager_template.png",
             "MD5": "62e2eafe9879c26a5d39f6eed5a0d4c0",
             "path": "config/easy_npc/skin/illager/illager_template.png"
           }
@@ -1762,7 +1742,7 @@
           "type": "File",
           "artifact": {
             "size": 451,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/iron_golem/iron_golem_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/iron_golem/iron_golem_template.png",
             "MD5": "041e19a3a9e328e569c1572c60bf7f82",
             "path": "config/easy_npc/skin/iron_golem/iron_golem_template.png"
           }
@@ -1773,7 +1753,7 @@
           "type": "File",
           "artifact": {
             "size": 521,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/orc/orc_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/orc/orc_template.png",
             "MD5": "529d5d314ad4dc8f697f7341f35cab74",
             "path": "config/easy_npc/skin/orc/orc_template.png"
           }
@@ -1784,7 +1764,7 @@
           "type": "File",
           "artifact": {
             "size": 270,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/pig/pig_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/pig/pig_template.png",
             "MD5": "cfc2538d1df812a5ee4ced14b78f9fd3",
             "path": "config/easy_npc/skin/pig/pig_template.png"
           }
@@ -1795,7 +1775,7 @@
           "type": "File",
           "artifact": {
             "size": 361,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/piglin/piglin_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/piglin/piglin_template.png",
             "MD5": "54ae451400c57b4832f976487e7bf629",
             "path": "config/easy_npc/skin/piglin/piglin_template.png"
           }
@@ -1806,7 +1786,7 @@
           "type": "File",
           "artifact": {
             "size": 259,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/skeleton/skeleton_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/skeleton/skeleton_template.png",
             "MD5": "b6f689ff48f8cd4b03a51947133a3857",
             "path": "config/easy_npc/skin/skeleton/skeleton_template.png"
           }
@@ -1817,7 +1797,7 @@
           "type": "File",
           "artifact": {
             "size": 308,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/spider/spider_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/spider/spider_template.png",
             "MD5": "03664e96aea4f091f754f2b853f2b853",
             "path": "config/easy_npc/skin/spider/spider_template.png"
           }
@@ -1828,7 +1808,7 @@
           "type": "File",
           "artifact": {
             "size": 531,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/stray/stray_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/stray/stray_template.png",
             "MD5": "66e672cdead5768165586f4b24c1f61c",
             "path": "config/easy_npc/skin/stray/stray_template.png"
           }
@@ -1839,7 +1819,7 @@
           "type": "File",
           "artifact": {
             "size": 247,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/vex/vex_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/vex/vex_template.png",
             "MD5": "37f6d362729979569dd8f1f4e6429f07",
             "path": "config/easy_npc/skin/vex/vex_template.png"
           }
@@ -1850,7 +1830,7 @@
           "type": "File",
           "artifact": {
             "size": 357,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/villager/villager_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/villager/villager_template.png",
             "MD5": "30e84778924e6c66aef598b8a3cd728a",
             "path": "config/easy_npc/skin/villager/villager_template.png"
           }
@@ -1861,7 +1841,7 @@
           "type": "File",
           "artifact": {
             "size": 331,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/villager/villager_without_hat_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/villager/villager_without_hat_template.png",
             "MD5": "3d8bca495a0fad6240e900d343c9f1d7",
             "path": "config/easy_npc/skin/villager/villager_without_hat_template.png"
           }
@@ -1872,7 +1852,7 @@
           "type": "File",
           "artifact": {
             "size": 431,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/witch/witch_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/witch/witch_template.png",
             "MD5": "3f15cb59a845607aca5614bd12e9df62",
             "path": "config/easy_npc/skin/witch/witch_template.png"
           }
@@ -1883,7 +1863,7 @@
           "type": "File",
           "artifact": {
             "size": 321,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/wolf/wolf_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/wolf/wolf_template.png",
             "MD5": "0adf39c4b15ec11850e85fdfcd8e0a59",
             "path": "config/easy_npc/skin/wolf/wolf_template.png"
           }
@@ -1894,7 +1874,7 @@
           "type": "File",
           "artifact": {
             "size": 292,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/zombie/zombie_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/zombie/zombie_template.png",
             "MD5": "a38b0b7043eb7c0e91379628aeed1db2",
             "path": "config/easy_npc/skin/zombie/zombie_template.png"
           }
@@ -1905,7 +1885,7 @@
           "type": "File",
           "artifact": {
             "size": 356,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
             "MD5": "b0748467bd2149105ad4d922c7799ed0",
             "path": "config/easy_npc/skin/zombie_villager/zombie_villager_template.png"
           }
@@ -1915,9 +1895,9 @@
           "name": "spawner_type.cfg",
           "type": "File",
           "artifact": {
-            "size": 1186,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/spawner_type.cfg",
-            "MD5": "a8d5a34f8aa60198f1b47361e60f01bd",
+            "size": 1149,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/spawner_type.cfg",
+            "MD5": "822080118b3ba108bb6cd26989558d1f",
             "path": "config/easy_npc/spawner_type.cfg"
           }
         },
@@ -1926,9 +1906,9 @@
           "name": "speech_bubble_client.cfg",
           "type": "File",
           "artifact": {
-            "size": 874,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/speech_bubble_client.cfg",
-            "MD5": "4e7ef82809370615aee09f9daf1e69a5",
+            "size": 857,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/speech_bubble_client.cfg",
+            "MD5": "ab4ab622f67b44807099c0fb24eb6241",
             "path": "config/easy_npc/speech_bubble_client.cfg"
           }
         },
@@ -1937,9 +1917,9 @@
           "name": "storage.cfg",
           "type": "File",
           "artifact": {
-            "size": 665,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/easy_npc/storage.cfg",
-            "MD5": "a43f809a9902a3533cdca562d908ff2f",
+            "size": 652,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/easy_npc/storage.cfg",
+            "MD5": "259a6d59fda4f53e1112dbcd490237cf",
             "path": "config/easy_npc/storage.cfg"
           }
         },
@@ -1949,7 +1929,7 @@
           "type": "File",
           "artifact": {
             "size": 427,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/embeddium-fingerprint.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/embeddium-fingerprint.json",
             "MD5": "327a4631888f7553df9e15837809e7e9",
             "path": "config/embeddium-fingerprint.json"
           }
@@ -1960,7 +1940,7 @@
           "type": "File",
           "artifact": {
             "size": 269,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/embeddium-mixins.properties",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/embeddium-mixins.properties",
             "MD5": "a9176524f816153a7967217b53bb75a1",
             "path": "config/embeddium-mixins.properties"
           }
@@ -1971,7 +1951,7 @@
           "type": "File",
           "artifact": {
             "size": 852,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/embeddium-options.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/embeddium-options.json",
             "MD5": "c0a96a9199ece4278654cf6e1fb2584c",
             "path": "config/embeddium-options.json"
           }
@@ -1982,7 +1962,7 @@
           "type": "File",
           "artifact": {
             "size": 76,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/customizablemenus.txt",
             "MD5": "8cd335741f1acd023a5203836fb9b944",
             "path": "config/fancymenu/customizablemenus.txt"
           }
@@ -1993,7 +1973,7 @@
           "type": "File",
           "artifact": {
             "size": 51531,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/customization/menu_sp.txt",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/customization/menu_sp.txt",
             "MD5": "9458efbf2d03a98ff5ec525c19cc852e",
             "path": "config/fancymenu/customization/menu_sp.txt"
           }
@@ -2004,7 +1984,7 @@
           "type": "File",
           "artifact": {
             "size": 51,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
             "MD5": "106e52948415f0879c53304f50783b28",
             "path": "config/fancymenu/custom_gui_screens.txt"
           }
@@ -2015,7 +1995,7 @@
           "type": "File",
           "artifact": {
             "size": 197,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
             "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
@@ -2026,7 +2006,7 @@
           "type": "File",
           "artifact": {
             "size": 42,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/legacy_checklist.txt",
             "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
             "path": "config/fancymenu/legacy_checklist.txt"
           }
@@ -2037,7 +2017,7 @@
           "type": "File",
           "artifact": {
             "size": 4400,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/options.txt",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/options.txt",
             "MD5": "c5d013b63b1d547d7753db010959e7aa",
             "path": "config/fancymenu/options.txt"
           }
@@ -2048,7 +2028,7 @@
           "type": "File",
           "artifact": {
             "size": 9349,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/cherry_blossom.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/cherry_blossom.json",
             "MD5": "90e358ee1c6bbd1d17bbcdad0a504f3d",
             "path": "config/fancymenu/ui_themes/cherry_blossom.json"
           }
@@ -2059,7 +2039,7 @@
           "type": "File",
           "artifact": {
             "size": 9347,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/cozy_campfire.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/cozy_campfire.json",
             "MD5": "02b0cd78a482dbd7ec793e123f4c007b",
             "path": "config/fancymenu/ui_themes/cozy_campfire.json"
           }
@@ -2070,7 +2050,7 @@
           "type": "File",
           "artifact": {
             "size": 9329,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/dark.json",
             "MD5": "cbf30e731636c918d598f1ad9b0ea371",
             "path": "config/fancymenu/ui_themes/dark.json"
           }
@@ -2081,7 +2061,7 @@
           "type": "File",
           "artifact": {
             "size": 9359,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/dark_high_contrast.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/dark_high_contrast.json",
             "MD5": "4b532a7a5c5ecd839e55a3c083c8bca3",
             "path": "config/fancymenu/ui_themes/dark_high_contrast.json"
           }
@@ -2092,7 +2072,7 @@
           "type": "File",
           "artifact": {
             "size": 9331,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/light.json",
             "MD5": "f3980d6eed1064c36d794d7b1030fd06",
             "path": "config/fancymenu/ui_themes/light.json"
           }
@@ -2103,7 +2083,7 @@
           "type": "File",
           "artifact": {
             "size": 9361,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/light_high_contrast.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/light_high_contrast.json",
             "MD5": "700ff9cd0e95ac2234e0494af729226a",
             "path": "config/fancymenu/ui_themes/light_high_contrast.json"
           }
@@ -2114,7 +2094,7 @@
           "type": "File",
           "artifact": {
             "size": 9345,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/pumpkin_soup.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/pumpkin_soup.json",
             "MD5": "d322c4bde872420ddeb2eaa124d0f16a",
             "path": "config/fancymenu/ui_themes/pumpkin_soup.json"
           }
@@ -2125,7 +2105,7 @@
           "type": "File",
           "artifact": {
             "size": 9343,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/purple_void.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/purple_void.json",
             "MD5": "79df3b7ab7a74d55e3f5bb70cd996dea",
             "path": "config/fancymenu/ui_themes/purple_void.json"
           }
@@ -2136,7 +2116,7 @@
           "type": "File",
           "artifact": {
             "size": 9347,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/spooky_season.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/ui_themes/spooky_season.json",
             "MD5": "c45cc6e6bd9c4a296227e764dcf1e953",
             "path": "config/fancymenu/ui_themes/spooky_season.json"
           }
@@ -2147,7 +2127,7 @@
           "type": "File",
           "artifact": {
             "size": 23,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fancymenu/user_variables.db",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fancymenu/user_variables.db",
             "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
             "path": "config/fancymenu/user_variables.db"
           }
@@ -2157,9 +2137,9 @@
           "name": "farmersdelight-client.toml",
           "type": "File",
           "artifact": {
-            "size": 478,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/farmersdelight-client.toml",
-            "MD5": "cd9a64a5389139e573bbfb183153dc70",
+            "size": 471,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/farmersdelight-client.toml",
+            "MD5": "b1efa256c1c29461c7a7ef4d3284ed02",
             "path": "config/farmersdelight-client.toml"
           }
         },
@@ -2168,9 +2148,9 @@
           "name": "farmersdelight-common.toml",
           "type": "File",
           "artifact": {
-            "size": 3930,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/farmersdelight-common.toml",
-            "MD5": "6a3569c558619c4c5eee563ea572cff7",
+            "size": 3863,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/farmersdelight-common.toml",
+            "MD5": "f200b9f8fa1a34348d3b716e39dfa339",
             "path": "config/farmersdelight-common.toml"
           }
         },
@@ -2179,9 +2159,9 @@
           "name": "ferritecore-mixin.toml",
           "type": "File",
           "artifact": {
-            "size": 1516,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/ferritecore-mixin.toml",
-            "MD5": "ab9006eb6d50292a11f757c0ae658ac0",
+            "size": 1493,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/ferritecore-mixin.toml",
+            "MD5": "fa651d9da306dd7e47ee5136e72f72f2",
             "path": "config/ferritecore-mixin.toml"
           }
         },
@@ -2190,9 +2170,9 @@
           "name": "flywheel-client.toml",
           "type": "File",
           "artifact": {
-            "size": 623,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/flywheel-client.toml",
-            "MD5": "969c76ee0b091b9bfecb378609e02466",
+            "size": 609,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/flywheel-client.toml",
+            "MD5": "09e1310ee1043230f10325d3f00764f6",
             "path": "config/flywheel-client.toml"
           }
         },
@@ -2201,9 +2181,9 @@
           "name": "fml.toml",
           "type": "File",
           "artifact": {
-            "size": 1148,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/fml.toml",
-            "MD5": "c12cf21cfc5d310aafcb72cd6d9b4ece",
+            "size": 1119,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/fml.toml",
+            "MD5": "e7ee3da4d471c57792c8b8723ab2e53e",
             "path": "config/fml.toml"
           }
         },
@@ -2212,9 +2192,9 @@
           "name": "forge-client.toml",
           "type": "File",
           "artifact": {
-            "size": 1628,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/forge-client.toml",
-            "MD5": "94d0dcbf248b1ee18bf1266c672327a1",
+            "size": 1602,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/forge-client.toml",
+            "MD5": "975ed82390b8039c41cc82181a13a9e4",
             "path": "config/forge-client.toml"
           }
         },
@@ -2223,9 +2203,9 @@
           "name": "ftbxmodcompat.snbt",
           "type": "File",
           "artifact": {
-            "size": 521,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/ftbxmodcompat.snbt",
-            "MD5": "b415307c72b1f8c5b24543844adfa995",
+            "size": 508,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/ftbxmodcompat.snbt",
+            "MD5": "0153132fcd7e5ac08760043252ff8240",
             "path": "config/ftbxmodcompat.snbt"
           }
         },
@@ -2235,7 +2215,7 @@
           "type": "File",
           "artifact": {
             "size": 19,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/jei/blacklist.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/jei/blacklist.json",
             "MD5": "ea5744cdc731b505949494bc512d338d",
             "path": "config/jei/blacklist.json"
           }
@@ -2245,9 +2225,9 @@
           "name": "jei-client.ini",
           "type": "File",
           "artifact": {
-            "size": 16999,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/jei/client/default/jei-client.ini",
-            "MD5": "4caaed4503cebaf32989c114c4f419d9",
+            "size": 16551,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/jei/client/default/jei-client.ini",
+            "MD5": "76f4f890eb99671d0b919ac49fe0a5da",
             "path": "config/jei/client/default/jei-client.ini"
           }
         },
@@ -2256,9 +2236,9 @@
           "name": "jei-colors.ini",
           "type": "File",
           "artifact": {
-            "size": 1655,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/jei/client/default/jei-colors.ini",
-            "MD5": "d91575351ff8a83528a98a215b127bdb",
+            "size": 1639,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/jei/client/default/jei-colors.ini",
+            "MD5": "b78706e3ef01ab4ce0778923fdd0eec2",
             "path": "config/jei/client/default/jei-colors.ini"
           }
         },
@@ -2267,9 +2247,9 @@
           "name": "jei-debug.ini",
           "type": "File",
           "artifact": {
-            "size": 1174,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/jei/client/default/jei-debug.ini",
-            "MD5": "da1cc755422f3aa23e559f19828b13f0",
+            "size": 1138,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/jei/client/default/jei-debug.ini",
+            "MD5": "48be70d565f6690029a232c834e60071",
             "path": "config/jei/client/default/jei-debug.ini"
           }
         },
@@ -2278,9 +2258,9 @@
           "name": "jei-mod-id-format.ini",
           "type": "File",
           "artifact": {
-            "size": 863,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/jei/client/default/jei-mod-id-format.ini",
-            "MD5": "c886f44e6e70c67b4dec1fd9a14121da",
+            "size": 847,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/jei/client/default/jei-mod-id-format.ini",
+            "MD5": "ec30a180f6f1cb8c8e4e35809143ec16",
             "path": "config/jei/client/default/jei-mod-id-format.ini"
           }
         },
@@ -2289,9 +2269,9 @@
           "name": "ingredient-list-mod-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 668,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/jei/client/ingredient-list-mod-sort-order.ini",
-            "MD5": "d63439ac767123a0dc062c46910bde5a",
+            "size": 636,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/jei/client/ingredient-list-mod-sort-order.ini",
+            "MD5": "75bbe359fa30c796047b769546f221ec",
             "path": "config/jei/client/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -2300,9 +2280,9 @@
           "name": "ingredient-list-type-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 99,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/jei/client/ingredient-list-type-sort-order.ini",
-            "MD5": "b863b9cd6f083884cc177ee9888cf9a7",
+            "size": 95,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/jei/client/ingredient-list-type-sort-order.ini",
+            "MD5": "cff3eb51d5d7e0bebe1b4de4af83f4df",
             "path": "config/jei/client/ingredient-list-type-sort-order.ini"
           }
         },
@@ -2311,9 +2291,9 @@
           "name": "recipe-category-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 1743,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/jei/client/recipe-category-sort-order.ini",
-            "MD5": "efd34564558532f39c5c5a50e325b0e5",
+            "size": 1674,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/jei/client/recipe-category-sort-order.ini",
+            "MD5": "743aeb82c7d795a695ad72458e203595",
             "path": "config/jei/client/recipe-category-sort-order.ini"
           }
         },
@@ -2323,7 +2303,7 @@
           "type": "File",
           "artifact": {
             "size": 369,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/konkrete/locals/de_de.local",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/konkrete/locals/de_de.local",
             "MD5": "3aac3df2519057d2305f894c37771e30",
             "path": "config/konkrete/locals/de_de.local"
           }
@@ -2334,7 +2314,7 @@
           "type": "File",
           "artifact": {
             "size": 426,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/konkrete/locals/en_us.local",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/konkrete/locals/en_us.local",
             "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
             "path": "config/konkrete/locals/en_us.local"
           }
@@ -2345,7 +2325,7 @@
           "type": "File",
           "artifact": {
             "size": 313,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/konkrete/locals/pl_pl.local",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/konkrete/locals/pl_pl.local",
             "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
             "path": "config/konkrete/locals/pl_pl.local"
           }
@@ -2356,7 +2336,7 @@
           "type": "File",
           "artifact": {
             "size": 322,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/konkrete/locals/pt_br.local",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/konkrete/locals/pt_br.local",
             "MD5": "2d055da094c115b94f0e4373a2e06ebe",
             "path": "config/konkrete/locals/pt_br.local"
           }
@@ -2366,9 +2346,9 @@
           "name": "lexiconfig.toml",
           "type": "File",
           "artifact": {
-            "size": 131,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/lexiconfig.toml",
-            "MD5": "a35153426fbc4d4ad97009c10033faa4",
+            "size": 123,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/lexiconfig.toml",
+            "MD5": "c7362b2dd25d981c1e7a28931bfcbb5e",
             "path": "config/lexiconfig.toml"
           }
         },
@@ -2378,7 +2358,7 @@
           "type": "File",
           "artifact": {
             "size": 70,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/locks/lockpick_types/_example.json.disabled",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/locks/lockpick_types/_example.json.disabled",
             "MD5": "050439257656c28180c25b136b3acc60",
             "path": "config/locks/lockpick_types/_example.json.disabled"
           }
@@ -2389,7 +2369,7 @@
           "type": "File",
           "artifact": {
             "size": 83,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/locks/lock_types/_example.json.disabled",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/locks/lock_types/_example.json.disabled",
             "MD5": "0220e1abfddeb6ab42b0b07a86ffe71d",
             "path": "config/locks/lock_types/_example.json.disabled"
           }
@@ -2399,9 +2379,9 @@
           "name": "locks-client.toml",
           "type": "File",
           "artifact": {
-            "size": 123,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/locks-client.toml",
-            "MD5": "aff630f3841f53e6e8c328894ffca930",
+            "size": 120,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/locks-client.toml",
+            "MD5": "9e2dcb455d9bf2acc4933f7050cb8501",
             "path": "config/locks-client.toml"
           }
         },
@@ -2410,9 +2390,9 @@
           "name": "locks-common.toml",
           "type": "File",
           "artifact": {
-            "size": 8429,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/locks-common.toml",
-            "MD5": "363fdb0a770f13dd7d1bf01475b905dc",
+            "size": 8246,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/locks-common.toml",
+            "MD5": "613f28640b094e41b5dc7f26e6e6f614",
             "path": "config/locks-common.toml"
           }
         },
@@ -2421,9 +2401,9 @@
           "name": "lrtactical-client.toml",
           "type": "File",
           "artifact": {
-            "size": 199,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/lrtactical-client.toml",
-            "MD5": "e3e3844f6b3114133fa82559aa1eb3b1",
+            "size": 193,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/lrtactical-client.toml",
+            "MD5": "29a00c05a57d600224fe2b9602f6513a",
             "path": "config/lrtactical-client.toml"
           }
         },
@@ -2432,9 +2412,9 @@
           "name": "lrtactical-common.toml",
           "type": "File",
           "artifact": {
-            "size": 360,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/lrtactical-common.toml",
-            "MD5": "1a5e1b95784f027a84fe2891e73bd0f6",
+            "size": 348,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/lrtactical-common.toml",
+            "MD5": "10e2178ecfc84343b5b86a4dbcb4fe19",
             "path": "config/lrtactical-common.toml"
           }
         },
@@ -2443,9 +2423,9 @@
           "name": "settings.ini",
           "type": "File",
           "artifact": {
-            "size": 1452,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/mezz_config/client/default/settings.ini",
-            "MD5": "18753ae443123c75636ab3cdd455bbc1",
+            "size": 1414,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/mezz_config/client/default/settings.ini",
+            "MD5": "80da4dbb37f7970ad0cc2f153c1b575c",
             "path": "config/mezz_config/client/default/settings.ini"
           }
         },
@@ -2454,9 +2434,9 @@
           "name": "modernfix-common.toml",
           "type": "File",
           "artifact": {
-            "size": 107,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/modernfix-common.toml",
-            "MD5": "1d50de2e9c0bda2952844de7a3306d10",
+            "size": 104,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/modernfix-common.toml",
+            "MD5": "1422faa756ad426d0f5f9cf97ef21451",
             "path": "config/modernfix-common.toml"
           }
         },
@@ -2466,7 +2446,7 @@
           "type": "File",
           "artifact": {
             "size": 6643,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/modernfix-mixins.properties",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/modernfix-mixins.properties",
             "MD5": "e45e143ab517790502cbb3c9e3ce3d72",
             "path": "config/modernfix-mixins.properties"
           }
@@ -2477,7 +2457,7 @@
           "type": "File",
           "artifact": {
             "size": 13856,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/mtsconfig.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/mtsconfig.json",
             "MD5": "789fd09dd1873f4352e3ef058bfb1f7d",
             "path": "config/mtsconfig.json"
           }
@@ -2488,7 +2468,7 @@
           "type": "File",
           "artifact": {
             "size": 24696,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/mtsconfigclient.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/mtsconfigclient.json",
             "MD5": "52a19a2d3458cc15f744dc767f2ca8e8",
             "path": "config/mtsconfigclient.json"
           }
@@ -2498,9 +2478,9 @@
           "name": "pehkui-client.toml",
           "type": "File",
           "artifact": {
-            "size": 138,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/pehkui-client.toml",
-            "MD5": "319a4fcb484d622b63c3b084f90aeb75",
+            "size": 132,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/pehkui-client.toml",
+            "MD5": "a9f63120dc05acf6288f89ad3e83f595",
             "path": "config/pehkui-client.toml"
           }
         },
@@ -2509,9 +2489,9 @@
           "name": "pehkui-common.toml",
           "type": "File",
           "artifact": {
-            "size": 407,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/pehkui-common.toml",
-            "MD5": "598daff44b47eff89332e1677c59ca87",
+            "size": 389,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/pehkui-common.toml",
+            "MD5": "ad4e3b41b77c54a1391c40b04660321f",
             "path": "config/pehkui-common.toml"
           }
         },
@@ -2521,7 +2501,7 @@
           "type": "File",
           "artifact": {
             "size": 131,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/playerrevive-client.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/playerrevive-client.json",
             "MD5": "a3124ef28058a8afae83c56f160d237b",
             "path": "config/playerrevive-client.json"
           }
@@ -2531,9 +2511,9 @@
           "name": "polymorph-integrations.toml",
           "type": "File",
           "artifact": {
-            "size": 333,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/polymorph-integrations.toml",
-            "MD5": "aa4c6b2d063bdc397c20479114f8f0ba",
+            "size": 327,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/polymorph-integrations.toml",
+            "MD5": "7e184f8ccfbf8dc4f3873c80f8dfe9c3",
             "path": "config/polymorph-integrations.toml"
           }
         },
@@ -2542,9 +2522,9 @@
           "name": "ponder-client.toml",
           "type": "File",
           "artifact": {
-            "size": 619,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/ponder-client.toml",
-            "MD5": "e923797057f201aaabb470187e768971",
+            "size": 599,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/ponder-client.toml",
+            "MD5": "1a06166427d7f947bbbd22b09aa2a8df",
             "path": "config/ponder-client.toml"
           }
         },
@@ -2553,9 +2533,9 @@
           "name": "revive_through_grass-client.toml",
           "type": "File",
           "artifact": {
-            "size": 707,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/revive_through_grass-client.toml",
-            "MD5": "bcc38965ab408a73ccd3120d0f44b63f",
+            "size": 692,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/revive_through_grass-client.toml",
+            "MD5": "98e9c51f43d24d7c6e8d6fba6d2d287c",
             "path": "config/revive_through_grass-client.toml"
           }
         },
@@ -2564,9 +2544,9 @@
           "name": "revive_through_grass-server.toml",
           "type": "File",
           "artifact": {
-            "size": 1116,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/revive_through_grass-server.toml",
-            "MD5": "bf90b3e7a3dcfd09fda582935d01a843",
+            "size": 1091,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/revive_through_grass-server.toml",
+            "MD5": "c205459a747f0f7ef1149428e53d89aa",
             "path": "config/revive_through_grass-server.toml"
           }
         },
@@ -2575,9 +2555,9 @@
           "name": "scholar-client.toml",
           "type": "File",
           "artifact": {
-            "size": 862,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/scholar-client.toml",
-            "MD5": "401ca637c8aebc851b96c29e6b9e41e0",
+            "size": 840,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/scholar-client.toml",
+            "MD5": "5c447228418d674cc0f01b6484194d9d",
             "path": "config/scholar-client.toml"
           }
         },
@@ -2586,9 +2566,9 @@
           "name": "scholar-common.toml",
           "type": "File",
           "artifact": {
-            "size": 2773,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/scholar-common.toml",
-            "MD5": "51b5a9d8640db0de84a9cb5e35af4a84",
+            "size": 2707,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/scholar-common.toml",
+            "MD5": "01ca3540b3aa939cc8b6e3c4ddbeeac5",
             "path": "config/scholar-common.toml"
           }
         },
@@ -2597,9 +2577,9 @@
           "name": "securitycraft-client.toml",
           "type": "File",
           "artifact": {
-            "size": 1951,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/securitycraft-client.toml",
-            "MD5": "4e880d401dcf3ea7352ac2ea951b158b",
+            "size": 1928,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/securitycraft-client.toml",
+            "MD5": "8419829d6532cd578281c33cbaa85d5a",
             "path": "config/securitycraft-client.toml"
           }
         },
@@ -2609,7 +2589,7 @@
           "type": "File",
           "artifact": {
             "size": 192,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/sidebar_buttons.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/sidebar_buttons.json",
             "MD5": "50226dcf1b68c34a0daaed60ed176f55",
             "path": "config/sidebar_buttons.json"
           }
@@ -2619,9 +2599,9 @@
           "name": "simpleradio-client.toml",
           "type": "File",
           "artifact": {
-            "size": 1510,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/simpleradio-client.toml",
-            "MD5": "a757c163a07fedde7da094e99aef74aa",
+            "size": 1474,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/simpleradio-client.toml",
+            "MD5": "fa039f85af02e22b12fae88a39154ac7",
             "path": "config/simpleradio-client.toml"
           }
         },
@@ -2630,9 +2610,9 @@
           "name": "simpleradio-server.toml",
           "type": "File",
           "artifact": {
-            "size": 12317,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/simpleradio-server.toml",
-            "MD5": "bcdf63ebb604e7cd8d4dff1c6fc5bc09",
+            "size": 12088,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/simpleradio-server.toml",
+            "MD5": "4e70fd2387707d3a22b260d4d67de147",
             "path": "config/simpleradio-server.toml"
           }
         },
@@ -2642,7 +2622,7 @@
           "type": "File",
           "artifact": {
             "size": 497,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/skinlayers.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/skinlayers.json",
             "MD5": "04d6f743e89a6fba20ddef26e3fbef9a",
             "path": "config/skinlayers.json"
           }
@@ -2652,9 +2632,9 @@
           "name": "sliceanddice-client.toml",
           "type": "File",
           "artifact": {
-            "size": 33,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/sliceanddice-client.toml",
-            "MD5": "7a8c7c0f1926d114d379579234e67c4b",
+            "size": 29,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/sliceanddice-client.toml",
+            "MD5": "e46b7bf6ad65fa8d46274e94b051982d",
             "path": "config/sliceanddice-client.toml"
           }
         },
@@ -2663,9 +2643,9 @@
           "name": "sliceanddice-common.toml",
           "type": "File",
           "artifact": {
-            "size": 427,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/sliceanddice-common.toml",
-            "MD5": "aa0e76d7920f37ae052b299596179e79",
+            "size": 404,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/sliceanddice-common.toml",
+            "MD5": "f4f8d840ef4333b9e5ae4bf6f2d488f0",
             "path": "config/sliceanddice-common.toml"
           }
         },
@@ -2674,9 +2654,9 @@
           "name": "tacz-client.toml",
           "type": "File",
           "artifact": {
-            "size": 3712,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/tacz-client.toml",
-            "MD5": "884bc4eb3a6860f6b0e021964e136dbf",
+            "size": 3630,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/tacz-client.toml",
+            "MD5": "bc54578b574750edf1cc349f827876ed",
             "path": "config/tacz-client.toml"
           }
         },
@@ -2685,9 +2665,9 @@
           "name": "tacz-common.toml",
           "type": "File",
           "artifact": {
-            "size": 2172,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/tacz-common.toml",
-            "MD5": "a0094e7d081be356dd5974c2bf6b5420",
+            "size": 2117,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/tacz-common.toml",
+            "MD5": "b8c154a85d3165cc31b7d26547cf2dcf",
             "path": "config/tacz-common.toml"
           }
         },
@@ -2697,7 +2677,7 @@
           "type": "File",
           "artifact": {
             "size": 97,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/transition.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/transition.json",
             "MD5": "31ba5caa4bcc56c2527e5d001e4f0f07",
             "path": "config/transition.json"
           }
@@ -2708,7 +2688,7 @@
           "type": "File",
           "artifact": {
             "size": 44,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/trender.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/trender.json",
             "MD5": "57d19d218711f08f8d7ce8c69f21d59f",
             "path": "config/trender.json"
           }
@@ -2718,9 +2698,9 @@
           "name": "category-volumes.properties",
           "type": "File",
           "artifact": {
-            "size": 46,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/voicechat/category-volumes.properties",
-            "MD5": "47731f53ffef4a8a57c766a8091a5651",
+            "size": 44,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/voicechat/category-volumes.properties",
+            "MD5": "b111608f2ef12c6aca40e9fd258517a2",
             "path": "config/voicechat/category-volumes.properties"
           }
         },
@@ -2729,9 +2709,9 @@
           "name": "player-volumes.properties",
           "type": "File",
           "artifact": {
-            "size": 44,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/voicechat/player-volumes.properties",
-            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
+            "size": 42,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/voicechat/player-volumes.properties",
+            "MD5": "dd08e98b101cd17c341023fa1a9b30e5",
             "path": "config/voicechat/player-volumes.properties"
           }
         },
@@ -2740,9 +2720,9 @@
           "name": "translations.properties",
           "type": "File",
           "artifact": {
-            "size": 1182,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/voicechat/translations.properties",
-            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
+            "size": 1168,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/voicechat/translations.properties",
+            "MD5": "acd70e3e0973ba6d8200c0ebf8b25bc0",
             "path": "config/voicechat/translations.properties"
           }
         },
@@ -2752,7 +2732,7 @@
           "type": "File",
           "artifact": {
             "size": 2,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/voicechat/username-cache.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/voicechat/username-cache.json",
             "MD5": "99914b932bd37a50b983c5e7c90ae93b",
             "path": "config/voicechat/username-cache.json"
           }
@@ -2762,9 +2742,9 @@
           "name": "voicechat-client.properties",
           "type": "File",
           "artifact": {
-            "size": 5063,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/voicechat/voicechat-client.properties",
-            "MD5": "24dc2a5d21eeba779a2cf81e0aa6c4eb",
+            "size": 4958,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/voicechat/voicechat-client.properties",
+            "MD5": "68466e464e0946955daf512a82e2af24",
             "path": "config/voicechat/voicechat-client.properties"
           }
         },
@@ -2773,9 +2753,9 @@
           "name": "voicechat-server.properties",
           "type": "File",
           "artifact": {
-            "size": 3072,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/voicechat/voicechat-server.properties",
-            "MD5": "7d83d34bf4d0b39477c28143469ca7aa",
+            "size": 3013,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/voicechat/voicechat-server.properties",
+            "MD5": "4586bd8d545e910149366befe9408549",
             "path": "config/voicechat/voicechat-server.properties"
           }
         },
@@ -2784,9 +2764,9 @@
           "name": "voicechat-client.toml",
           "type": "File",
           "artifact": {
-            "size": 94,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/voicechat-client.toml",
-            "MD5": "2fb2989fe60bf9a60eb6e8946ce4bb12",
+            "size": 91,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/voicechat-client.toml",
+            "MD5": "7703edf084379ff0f1ca1f9c359e5099",
             "path": "config/voicechat-client.toml"
           }
         },
@@ -2796,7 +2776,7 @@
           "type": "File",
           "artifact": {
             "size": 26,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/lib/client.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/lib/client.cfg",
             "MD5": "dd7d24d2b991f7648671c16d0a74c265",
             "path": "config/xaero/lib/client.cfg"
           }
@@ -2807,7 +2787,7 @@
           "type": "File",
           "artifact": {
             "size": 236,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/lib/common.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/lib/common.cfg",
             "MD5": "e085e122e32132e1fa73ac927f7ece81",
             "path": "config/xaero/lib/common.cfg"
           }
@@ -2818,7 +2798,7 @@
           "type": "File",
           "artifact": {
             "size": 121,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/lib/profiles/default.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/lib/profiles/default.cfg",
             "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
             "path": "config/xaero/lib/profiles/default.cfg"
           }
@@ -2829,7 +2809,7 @@
           "type": "File",
           "artifact": {
             "size": 75,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/lib/server_profiles/default.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/lib/server_profiles/default.cfg",
             "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/lib/server_profiles/default.cfg"
           }
@@ -2840,7 +2820,7 @@
           "type": "File",
           "artifact": {
             "size": 235,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/minimap/client.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/minimap/client.cfg",
             "MD5": "7a8d5e6353c7471f6002052f1fbd71bb",
             "path": "config/xaero/minimap/client.cfg"
           }
@@ -2851,7 +2831,7 @@
           "type": "File",
           "artifact": {
             "size": 147,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/minimap/common.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/minimap/common.cfg",
             "MD5": "48d56532be92f58e976a2d1753abdd35",
             "path": "config/xaero/minimap/common.cfg"
           }
@@ -2862,7 +2842,7 @@
           "type": "File",
           "artifact": {
             "size": 5531,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/minimap/default_radar_categories_client.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/minimap/default_radar_categories_client.json",
             "MD5": "71086272395ab15f8fdaad8e2c7320da",
             "path": "config/xaero/minimap/default_radar_categories_client.json"
           }
@@ -2873,7 +2853,7 @@
           "type": "File",
           "artifact": {
             "size": 4597,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/minimap/default_radar_categories_server.json",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/minimap/default_radar_categories_server.json",
             "MD5": "7ffe568a308241b93166af2d45ce79c7",
             "path": "config/xaero/minimap/default_radar_categories_server.json"
           }
@@ -2884,7 +2864,7 @@
           "type": "File",
           "artifact": {
             "size": 3825,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/minimap/profiles/default.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/minimap/profiles/default.cfg",
             "MD5": "39b36f582769dd7ea8222f60f7059302",
             "path": "config/xaero/minimap/profiles/default.cfg"
           }
@@ -2895,7 +2875,7 @@
           "type": "File",
           "artifact": {
             "size": 684,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
             "MD5": "64d98932063f0be723920fbdb1de1268",
             "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
           }
@@ -2906,7 +2886,7 @@
           "type": "File",
           "artifact": {
             "size": 75,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/minimap/server_profiles/default.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/minimap/server_profiles/default.cfg",
             "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/minimap/server_profiles/default.cfg"
           }
@@ -2917,7 +2897,7 @@
           "type": "File",
           "artifact": {
             "size": 521,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/world-map/client.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/world-map/client.cfg",
             "MD5": "ab1be7cbe44d8ac32333a69570ab8cae",
             "path": "config/xaero/world-map/client.cfg"
           }
@@ -2928,7 +2908,7 @@
           "type": "File",
           "artifact": {
             "size": 141,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/world-map/common.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/world-map/common.cfg",
             "MD5": "b5ddb993fe4200e02fec18254463b2c2",
             "path": "config/xaero/world-map/common.cfg"
           }
@@ -2939,7 +2919,7 @@
           "type": "File",
           "artifact": {
             "size": 1619,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/world-map/profiles/default.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/world-map/profiles/default.cfg",
             "MD5": "21c979a028cd1efa4cc914ceca5b54b9",
             "path": "config/xaero/world-map/profiles/default.cfg"
           }
@@ -2950,7 +2930,7 @@
           "type": "File",
           "artifact": {
             "size": 75,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaero/world-map/server_profiles/default.cfg",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaero/world-map/server_profiles/default.cfg",
             "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
             "path": "config/xaero/world-map/server_profiles/default.cfg"
           }
@@ -2960,9 +2940,9 @@
           "name": "xaerohud.txt",
           "type": "File",
           "artifact": {
-            "size": 123,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaerohud.txt",
-            "MD5": "2f87c54b0b2e85e6a5031171284d6f31",
+            "size": 122,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaerohud.txt",
+            "MD5": "904c91a63e397a28cd8ee325e390b5db",
             "path": "config/xaerohud.txt"
           }
         },
@@ -2972,7 +2952,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/xaeropatreon.txt",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/xaeropatreon.txt",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/xaeropatreon.txt"
           }
@@ -2983,7 +2963,7 @@
           "type": "File",
           "artifact": {
             "size": 35,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/config/yacl.json5",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/config/yacl.json5",
             "MD5": "81d542abb72c4750c7218e0d975e3368",
             "path": "config/yacl.json5"
           }
@@ -2994,7 +2974,7 @@
           "type": "File",
           "artifact": {
             "size": 6254897,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/mods/Immersive-Vehicles-1.20.1-24.0.0.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/Immersive-Vehicles-1.20.1-24.0.0.jar",
             "MD5": "96fd07315c988dff6e5dff255ec4ba79",
             "path": "mods/Immersive-Vehicles-1.20.1-24.0.0.jar"
           }
@@ -3005,7 +2985,7 @@
           "type": "File",
           "artifact": {
             "size": 70997298,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/mods/MTS-Official-Pack-1.20.1-V29.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/MTS-Official-Pack-1.20.1-V29.jar",
             "MD5": "f21a397cce53a4ef26c09c1c65a6a3d7",
             "path": "mods/MTS-Official-Pack-1.20.1-V29.jar"
           }
@@ -3016,7 +2996,7 @@
           "type": "File",
           "artifact": {
             "size": 126471022,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/mods/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar",
             "MD5": "7c18d0129fe7e6919690a6273eb05f18",
             "path": "mods/UNU-Civilian-Pack-MTS-1.20.1-22.18.0-6.7.1.jar"
           }
@@ -3027,7 +3007,7 @@
           "type": "File",
           "artifact": {
             "size": 32034767,
-            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/files/mods/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/files/mods/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar",
             "MD5": "9f598bd7ba33eb0443adbe3f13c4fabe",
             "path": "mods/UNU-Parts-Pack-MTS-1.20.1-22.18.0-6.7.3.jar"
           }
