@@ -554,6 +554,16 @@
           }
         },
         {
+          "id": "com.supermartijn642:connectedglass:1.1.14@jar",
+          "name": "Connected Glass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 873714,
+            "url": "https://raw.githubusercontent.com/felished/launcher-picuso/main/servers/virgoland-1.20.1/forgemods/required/connectedglass-1.1.14-forge-mc1.20.1.jar",
+            "MD5": "7b7a482c48dc0e76120f0bd91af1e01a"
+          }
+        },
+        {
           "id": "com.blamejared:controlling:12.0.2@jar",
           "name": "Controlling",
           "type": "ForgeMod",
