@@ -944,16 +944,6 @@
           }
         },
         {
-          "id": "net.derpymeow:hospitals:4.0.0@jar",
-          "name": "Hospitals (THM Expanded)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 22461929,
-            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/hospitals-4.0.0-forge-1.20.1.jar",
-            "MD5": "c65a177ef7c9c3a0d86a6540c49c2822"
-          }
-        },
-        {
           "id": "immersive_paintings:immersive_paintings:0.6.13+1.20.1@jar",
           "name": "Immersive Paintings",
           "type": "ForgeMod",
