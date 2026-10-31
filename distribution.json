@@ -994,6 +994,16 @@
           }
         },
         {
+          "id": "com.kirri.casino:kirriscasino:0.9.0@jar",
+          "name": "Kirri's Casino",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2298976,
+            "url": "https://github.com/felished/launcher-picuso/raw/main/servers/virgoland-1.20.1/forgemods/required/kirriscasino-forge-1.20.1-0.9.0.jar",
+            "MD5": "fbc1736f066cc70d7365937a2ab57a64"
+          }
+        },
+        {
           "id": "de.keksuccino:konkrete:1.8.0@jar",
           "name": "Konkrete",
           "type": "ForgeMod",
